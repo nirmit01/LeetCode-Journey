@@ -1,20 +1,20 @@
 class Solution {
 public:
     int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
-        int curr=0,tot=0,start=0;
-        for(int i=0;i<gas.size();i++)
+        int n=gas.size();
+        int sum=0;
+        for(int i=0;i<n;i++)
         {
-            int diff=gas[i]-cost[i];
-            tot+=diff;
-            curr+=diff;
-            if(curr<0)
-            {
-                curr=0;
-                start=i+1;
-            }
+            gas[i]-=cost[i];
+            sum+=gas[i];
         }
-        if(tot<0)
+        if(sum<0)
             return -1;
-        return start;
+        for(int i=1;i<n;i++)
+        {
+            gas[i]+=gas[i-1];
+        }
+        int i=min_element(gas.begin(),gas.end())-gas.begin();
+        return (i+1)%n;
     }
 };
