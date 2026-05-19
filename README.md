@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/nirmit01/LeetCode-Journey/tree/master/0134-gas-station) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0697-degree-of-an-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nirmit01/LeetCode-Journey/tree/master/0944-delete-columns-to-make-sorted) |
 | [1306-jump-game-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/nirmit01/LeetCode-Journey/tree/master/1345-jump-game-iv) |
@@ -71,5 +72,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [2540-minimum-common-value](https://github.com/nirmit01/LeetCode-Journey/tree/master/2540-minimum-common-value) |
+## Sorting
+|  |
+| ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
 <!---LeetCode Topics End-->
