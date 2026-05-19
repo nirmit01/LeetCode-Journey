@@ -78,4 +78,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0922-sort-array-by-parity-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/nirmit01/LeetCode-Journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/nirmit01/LeetCode-Journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 <!---LeetCode Topics End-->
