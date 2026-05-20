@@ -90,5 +90,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/nirmit01/LeetCode-Journey/tree/master/0191-number-of-1-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nirmit01/LeetCode-Journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/nirmit01/LeetCode-Journey/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
