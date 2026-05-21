@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/nirmit01/LeetCode-Journey/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nirmit01/LeetCode-Journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nirmit01/LeetCode-Journey/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nirmit01/LeetCode-Journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nirmit01/LeetCode-Journey/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/nirmit01/LeetCode-Journey/tree/master/3660-jump-game-ix) |
 ## Binary Search
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/nirmit01/LeetCode-Journey/tree/master/0944-delete-columns-to-make-sorted) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nirmit01/LeetCode-Journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/nirmit01/LeetCode-Journey/tree/master/1345-jump-game-iv) |
 | [2540-minimum-common-value](https://github.com/nirmit01/LeetCode-Journey/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nirmit01/LeetCode-Journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nirmit01/LeetCode-Journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nirmit01/LeetCode-Journey/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Math
 |  |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/nirmit01/LeetCode-Journey/tree/master/0191-number-of-1-bits) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nirmit01/LeetCode-Journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
