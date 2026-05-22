@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0040-combination-sum-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2540-minimum-common-value](https://github.com/nirmit01/LeetCode-Journey/tree/master/2540-minimum-common-value) |
 ## String
