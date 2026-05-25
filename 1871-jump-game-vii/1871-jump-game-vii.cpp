@@ -2,20 +2,24 @@ class Solution {
 public:
     bool canReach(string s, int minJump, int maxJump) {
         int n=s.size();
-        vector<int>dp(n);
-        int active=0;
-        dp[0]=1;
-        for(int i=1;i<n;i++)
+        queue<int>q;
+        q.push(0);
+        int far=0;
+        while(!q.empty())
         {
-            if(i-minJump>=0)
-                active+=dp[i-minJump];
-            
-            if(i-maxJump-1>=0)
-                active-=dp[i-maxJump-1];
-
-            if(s[i]=='0' && active)
-                dp[i]=1;
+            int k=q.front();
+            q.pop();
+            int start=max(far,k+minJump);
+            int end=min(k+maxJump,n-1);
+            for(int i=start;i<=end;i++)
+            {
+                if(s[i]=='0')
+                    q.push(i);
+                if(s[i]=='0' && i==n-1)
+                    return true;
+            }
+            far=end+1;
         }
-        return dp[n-1];
+        return false;
     }
 };
