@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/nirmit01/LeetCode-Journey/tree/master/0944-delete-columns-to-make-sorted) |
+| [1871-jump-game-vii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nirmit01/LeetCode-Journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/nirmit01/LeetCode-Journey/tree/master/0338-counting-bits) |
 | [0790-domino-and-tromino-tiling](https://github.com/nirmit01/LeetCode-Journey/tree/master/0790-domino-and-tromino-tiling) |
 | [1340-jump-game-v](https://github.com/nirmit01/LeetCode-Journey/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nirmit01/LeetCode-Journey/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/nirmit01/LeetCode-Journey/tree/master/3660-jump-game-ix) |
 ## Hash Table
@@ -126,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0112-path-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1871-jump-game-vii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
