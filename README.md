@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0002-add-two-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nirmit01/LeetCode-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nirmit01/LeetCode-Journey/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Breadth-First Search
@@ -153,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-sort-integers-by-the-power-value](https://github.com/nirmit01/LeetCode-Journey/tree/master/1387-sort-integers-by-the-power-value) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
