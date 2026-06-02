@@ -13,15 +13,25 @@ public:
         for(int i=idx;i<n;i++)
         {
             temp+=s[i];
-            string k=temp;
-            reverse(k.begin(),k.end());
-            if(k==temp)
+            if(ispal(temp))
             {
                 vec.push_back(temp);
                 solve(i+1,s,vec,ans);
                 vec.pop_back();
             }
         }
+    }
+    bool ispal(string& temp)
+    {
+        int i=0,j=temp.size()-1;
+        while(i<j)
+        {
+            if(temp[i]!=temp[j])
+                return false;
+            i++;
+            j--;
+        }
+        return true;
     }
     vector<vector<string>> partition(string s) {
         vector<vector<string>> ans;
