@@ -23,11 +23,7 @@ public:
         for(int j=i;j<i+3 && j<n;j++)
         {
             dig+=s[j];
-            int d=0;
-            for(int k=0;k<dig.size();k++)
-            {
-                d=(d*10)+(dig[k]-'0');
-            }
+            int d=stoi(dig);
             if(d<=255)
             {
                 ch=temp+dig;
