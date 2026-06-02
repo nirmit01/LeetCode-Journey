@@ -19,7 +19,7 @@ public:
             return;
         }
         int n=s.size();
-        string dig="";
+        string dig;
         for(int j=i;j<i+3 && j<n;j++)
         {
             dig+=s[j];
@@ -33,7 +33,7 @@ public:
     }
 
     vector<string> restoreIpAddresses(string s) {
-        string temp="";
+        string temp;
         vector<string> ans;
         solve(0,s,0,ans,temp);
         return ans;
