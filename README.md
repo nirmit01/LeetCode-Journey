@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/nirmit01/LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0316-remove-duplicate-letters](https://github.com/nirmit01/LeetCode-Journey/tree/master/0316-remove-duplicate-letters) |
+| [0567-permutation-in-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nirmit01/LeetCode-Journey/tree/master/0944-delete-columns-to-make-sorted) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nirmit01/LeetCode-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1871-jump-game-vii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1871-jump-game-vii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0567-permutation-in-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [1345-jump-game-iv](https://github.com/nirmit01/LeetCode-Journey/tree/master/1345-jump-game-iv) |
 | [2540-minimum-common-value](https://github.com/nirmit01/LeetCode-Journey/tree/master/2540-minimum-common-value) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [2540-minimum-common-value](https://github.com/nirmit01/LeetCode-Journey/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nirmit01/LeetCode-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1871-jump-game-vii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1871-jump-game-vii) |
