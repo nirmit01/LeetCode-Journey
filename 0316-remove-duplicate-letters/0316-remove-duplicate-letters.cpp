@@ -6,26 +6,19 @@ public:
         {
             seen[s[i]-'a']=i;
         }
-        stack<char> st;
+        string ans;
         for(int i=0;i<s.size();i++)
         {
             if(visited[s[i]-'a'])
                 continue;
-            while(!st.empty() && st.top()>s[i] && seen[st.top()-'a']>i)
+            while(!ans.empty() && ans.back()>s[i] && seen[ans.back()-'a']>i)
             {
-                visited[st.top()-'a']=0;
-                st.pop();
+                visited[ans.back()-'a']=0;
+                ans.pop_back();
             }
-            st.push(s[i]);
-            visited[st.top()-'a']=1;
+            ans.push_back(s[i]);
+            visited[ans.back()-'a']=1;
         }
-        string ans;
-        while(!st.empty())
-        {
-            ans+=st.top();
-            st.pop();
-        }
-        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
