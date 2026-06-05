@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/nirmit01/LeetCode-Journey/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/nirmit01/LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0316-remove-duplicate-letters](https://github.com/nirmit01/LeetCode-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nirmit01/LeetCode-Journey/tree/master/0944-delete-columns-to-make-sorted) |
 | [1871-jump-game-vii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nirmit01/LeetCode-Journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/nirmit01/LeetCode-Journey/tree/master/0134-gas-station) |
+| [0316-remove-duplicate-letters](https://github.com/nirmit01/LeetCode-Journey/tree/master/0316-remove-duplicate-letters) |
 | [2126-destroying-asteroids](https://github.com/nirmit01/LeetCode-Journey/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nirmit01/LeetCode-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nirmit01/LeetCode-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -217,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/nirmit01/LeetCode-Journey/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/nirmit01/LeetCode-Journey/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
