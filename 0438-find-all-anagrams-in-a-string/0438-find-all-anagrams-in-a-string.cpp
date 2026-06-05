@@ -4,8 +4,8 @@ public:
         vector<int> ans;
         vector<int> freq1(26),freq2(26);
         int n=p.size(),m=s.size();
-        for(int i=0;i<n;i++)
-            freq1[p[i]-'a']++;
+        for(char& c:p)
+            freq1[c-'a']++;
         for(int i=0;i<m;i++)
         {
             freq2[s[i]-'a']++;
