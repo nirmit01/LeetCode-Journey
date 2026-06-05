@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/nirmit01/LeetCode-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0525-contiguous-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nirmit01/LeetCode-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/nirmit01/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [1345-jump-game-iv](https://github.com/nirmit01/LeetCode-Journey/tree/master/1345-jump-game-iv) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0525-contiguous-array) |
 | [1871-jump-game-vii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1871-jump-game-vii) |
 ## Memoization
 |  |
