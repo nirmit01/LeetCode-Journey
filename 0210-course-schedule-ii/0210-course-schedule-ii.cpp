@@ -30,8 +30,6 @@ public:
                     q.push(x);
             }
         }
-        if(ans.size()==n)
-            return ans;
-        return {};   
+        return ans.size()==n ? ans : vector<int>();   
     }
 };
