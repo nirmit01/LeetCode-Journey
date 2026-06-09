@@ -12,17 +12,13 @@ public:
                 cnt++;
             }
             if(cnt==1)
-            {
                 chars[j++]=c;
-            }
             else
             {
                 chars[j++]=c;
                 string s=to_string(cnt);
                 for(char k:s)
-                {
                     chars[j++]=k;
-                }
             }
         }
         return j;
