@@ -1,4 +1,10 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🚀 LeetCode Journey
+
+Welcome to my LeetCode repository!
+
+This repository contains my solutions to LeetCode problems, written primarily in **C++**. The goal is to strengthen my problem-solving skills, improve algorithmic thinking, and prepare for coding interviews and competitive programming contests.
+
+A collection of LeetCode questions to ace the coding interview! 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
