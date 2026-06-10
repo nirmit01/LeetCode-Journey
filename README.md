@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/nirmit01/LeetCode-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0493-reverse-pairs](https://github.com/nirmit01/LeetCode-Journey/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0493-reverse-pairs](https://github.com/nirmit01/LeetCode-Journey/tree/master/0493-reverse-pairs) |
 | [2540-minimum-common-value](https://github.com/nirmit01/LeetCode-Journey/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nirmit01/LeetCode-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/nirmit01/LeetCode-Journey/tree/master/0191-number-of-1-bits) |
+| [0493-reverse-pairs](https://github.com/nirmit01/LeetCode-Journey/tree/master/0493-reverse-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -342,4 +345,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nirmit01/LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/nirmit01/LeetCode-Journey/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/nirmit01/LeetCode-Journey/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/nirmit01/LeetCode-Journey/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/nirmit01/LeetCode-Journey/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
