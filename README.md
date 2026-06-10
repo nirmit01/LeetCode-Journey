@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nirmit01/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/nirmit01/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0093-restore-ip-addresses](https://github.com/nirmit01/LeetCode-Journey/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/nirmit01/LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nirmit01/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/nirmit01/LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/nirmit01/LeetCode-Journey/tree/master/0338-counting-bits) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nirmit01/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/nirmit01/LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/nirmit01/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0443-string-compression](https://github.com/nirmit01/LeetCode-Journey/tree/master/0443-string-compression) |
