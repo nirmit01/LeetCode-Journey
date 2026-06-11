@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nirmit01/LeetCode-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0922-sort-array-by-parity-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nirmit01/LeetCode-Journey/tree/master/0944-delete-columns-to-make-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nirmit01/LeetCode-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1306-jump-game-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/nirmit01/LeetCode-Journey/tree/master/1340-jump-game-v) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/nirmit01/LeetCode-Journey/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nirmit01/LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/nirmit01/LeetCode-Journey/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/nirmit01/LeetCode-Journey/tree/master/0621-task-scheduler) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nirmit01/LeetCode-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0922-sort-array-by-parity-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1340-jump-game-v](https://github.com/nirmit01/LeetCode-Journey/tree/master/1340-jump-game-v) |
 | [1387-sort-integers-by-the-power-value](https://github.com/nirmit01/LeetCode-Journey/tree/master/1387-sort-integers-by-the-power-value) |
 | [2126-destroying-asteroids](https://github.com/nirmit01/LeetCode-Journey/tree/master/2126-destroying-asteroids) |
