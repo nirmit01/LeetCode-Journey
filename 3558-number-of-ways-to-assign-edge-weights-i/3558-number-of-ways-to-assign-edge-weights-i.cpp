@@ -1,32 +1,32 @@
 class Solution {
 public:
+
     const int mod=1e9+7;
-    int getpow(int x, int n)
+    int solve(int x,int n)
     {
-        int ans=1;
         long long a=x;
+        int ans=1;
         while(n>0)
         {
             if(n&1)
-            {
                 ans=(ans*a)%mod;
-            }
             a=(a*a)%mod;
             n>>=1;
         }
         return ans;
     }
 
-    void geth(int node, int par, int h, int& ans,vector<vector<int>>& adj)
+    void geth(int node, int parent, int h, int& ans, vector<vector<int>>& adj)
     {
         ans=max(ans,h);
-        for(auto i:adj[node])
+        for(int x: adj[node])
         {
-            if(i==par)
+            if(x==parent)
                 continue;
-            geth(i,node,h+1,ans,adj);
+            geth(x,node,h+1,ans,adj);
         }
-    } 
+    }
+
     int assignEdgeWeights(vector<vector<int>>& edges) {
         int n=edges.size()+1;
         vector<vector<int>> adj(n+1);
@@ -39,6 +39,6 @@ public:
         int ans=0;
         geth(1,0,0,ans,adj);
 
-        return getpow(2,ans-1); 
+        return solve(2,ans-1);
     }
 };
