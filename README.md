@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1901-find-a-peak-element-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1901-find-a-peak-element-ii) |
 | [2050-parallel-courses-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/2050-parallel-courses-iii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2101-detonate-the-maximum-bombs](https://github.com/nirmit01/LeetCode-Journey/tree/master/2101-detonate-the-maximum-bombs) |
 | [2126-destroying-asteroids](https://github.com/nirmit01/LeetCode-Journey/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nirmit01/LeetCode-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nirmit01/LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/nirmit01/LeetCode-Journey/tree/master/0009-palindrome-number) |
+| [2101-detonate-the-maximum-bombs](https://github.com/nirmit01/LeetCode-Journey/tree/master/2101-detonate-the-maximum-bombs) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nirmit01/LeetCode-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1306-jump-game-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/nirmit01/LeetCode-Journey/tree/master/1345-jump-game-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nirmit01/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/nirmit01/LeetCode-Journey/tree/master/2101-detonate-the-maximum-bombs) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nirmit01/LeetCode-Journey/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1306-jump-game-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1306-jump-game-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nirmit01/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/nirmit01/LeetCode-Journey/tree/master/2101-detonate-the-maximum-bombs) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Backtracking
 |  |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/nirmit01/LeetCode-Journey/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nirmit01/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2050-parallel-courses-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/2050-parallel-courses-iii) |
+| [2101-detonate-the-maximum-bombs](https://github.com/nirmit01/LeetCode-Journey/tree/master/2101-detonate-the-maximum-bombs) |
 ## Design
 |  |
 | ------- |
@@ -390,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1901-find-a-peak-element-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1901-find-a-peak-element-ii) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/nirmit01/LeetCode-Journey/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
