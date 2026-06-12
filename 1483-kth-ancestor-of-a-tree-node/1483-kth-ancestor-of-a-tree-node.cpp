@@ -1,6 +1,6 @@
 class TreeAncestor {
 public:
-    int mg=17;
+    int mg=16;
     vector<vector<int>> up;
     TreeAncestor(int n, vector<int>& parent) {
         up=vector<vector<int>>(n,vector<int>(mg+1,-1));
