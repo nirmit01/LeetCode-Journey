@@ -63,23 +63,22 @@ public:
     }
     vector<int> assignEdgeWeights(vector<vector<int>>& edges, vector<vector<int>>& queries) {
         int n=edges.size()+1;
-        up=vector<vector<int>>(n+1,vector<int>(log+1));
         adj=vector<vector<int>>(n+1);
         depth=vector<int>(n+1);
-        for(auto& x : edges)
+        up=vector<vector<int>>(n+1,vector<int>(log+1));
+        for(auto& x:edges)
         {
             int u=x[0],v=x[1];
             adj[u].push_back(v);
             adj[v].push_back(u);
         }
-        int m=queries.size();
-        vector<int> ans;
         dfs(1,0);
-        for(auto &i :queries)
+        vector<int> ans;
+        for(auto& q:queries)
         {
-            int u=i[0],v=i[1];
+            int u=q[0],v=q[1];
             int p=lca(u,v);
-            int d=depth[u]+depth[v]-2*depth[p];
+            int d =depth[u]+depth[v]-2*depth[p];
             ans.push_back(binexp(2,d-1));
         }
         return ans;
