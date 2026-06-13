@@ -1,16 +1,24 @@
 class Solution {
 public:
     bool mergeTriplets(vector<vector<int>>& triplets, vector<int>& target) {
-        vector<int> ans(3);
-        for(auto& v:triplets)
+        vector<bool> found(3);
+        int n=triplets.size();
+        auto &t=triplets;
+        for(int i=0;i<3;i++)
         {
-            if(target[0]>=v[0] && target[1]>=v[1] && target[2]>=v[2])
+            for(int j=0;j<n;j++)
             {
-                ans[0]=max(ans[0],v[0]);
-                ans[1]=max(ans[1],v[1]);
-                ans[2]=max(ans[2],v[2]);
+                if(found[i])
+                    break;
+                if(t[j][i]==target[i] && t[j][0]<=target[0] && t[j][1]<=target[1] && 
+                t[j][2]<=target[2])
+                {
+                    if(t[j][0]==target[0])  found[0]=true;
+                    if(t[j][1]==target[1])  found[1]=true;
+                    if(t[j][2]==target[2])  found[2]=true;
+                }
             }
         }
-        return (ans==target);
+        return (found[0] && found[1] && found[2]);
     }
 };
