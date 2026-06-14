@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/nirmit01/LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0316-remove-duplicate-letters](https://github.com/nirmit01/LeetCode-Journey/tree/master/0316-remove-duplicate-letters) |
+| [0344-reverse-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nirmit01/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/nirmit01/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/nirmit01/LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/nirmit01/LeetCode-Journey/tree/master/0075-sort-colors) |
+| [0344-reverse-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/nirmit01/LeetCode-Journey/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0567-permutation-in-string) |
