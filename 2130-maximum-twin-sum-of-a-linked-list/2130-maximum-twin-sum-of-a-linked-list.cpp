@@ -12,12 +12,12 @@ class Solution {
 public:
     int pairSum(ListNode* head) {
         ListNode* temp1=head, *temp2=head;
-        while(temp2->next->next)
+        while(temp2 && temp2->next)
         {
             temp1=temp1->next;
             temp2=temp2->next->next;
         }
-        ListNode* curr=temp1->next, *prev=nullptr;
+        ListNode* curr=temp1, *prev=nullptr;
         while(curr)
         {
             ListNode* temp=curr->next;
@@ -25,7 +25,6 @@ public:
             prev=curr;
             curr=temp;
         }
-        temp1->next=prev;
         int ans=0;
         ListNode* head1=head, *head2=prev;
         while(head2)
