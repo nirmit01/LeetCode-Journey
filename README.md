@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/nirmit01/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/nirmit01/LeetCode-Journey/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nirmit01/LeetCode-Journey/tree/master/0944-delete-columns-to-make-sorted) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/nirmit01/LeetCode-Journey/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
