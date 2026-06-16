@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/nirmit01/LeetCode-Journey/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
+| [0739-daily-temperatures](https://github.com/nirmit01/LeetCode-Journey/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nirmit01/LeetCode-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0922-sort-array-by-parity-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nirmit01/LeetCode-Journey/tree/master/0944-delete-columns-to-make-sorted) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirmit01/LeetCode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/nirmit01/LeetCode-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/nirmit01/LeetCode-Journey/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nirmit01/LeetCode-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nirmit01/LeetCode-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/nirmit01/LeetCode-Journey/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/nirmit01/LeetCode-Journey/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nirmit01/LeetCode-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Queue
 |  |
