@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/nirmit01/LeetCode-Journey/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirmit01/LeetCode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0371-sum-of-two-integers) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/nirmit01/LeetCode-Journey/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nirmit01/LeetCode-Journey/tree/master/2101-detonate-the-maximum-bombs) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nirmit01/LeetCode-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
