@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1306-jump-game-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/nirmit01/LeetCode-Journey/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/nirmit01/LeetCode-Journey/tree/master/1345-jump-game-iv) |
+| [1732-find-the-highest-altitude](https://github.com/nirmit01/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nirmit01/LeetCode-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/nirmit01/LeetCode-Journey/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1901-find-a-peak-element-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1901-find-a-peak-element-ii) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0525-contiguous-array) |
+| [1732-find-the-highest-altitude](https://github.com/nirmit01/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/nirmit01/LeetCode-Journey/tree/master/2574-left-and-right-sum-differences) |
 ## Memoization
