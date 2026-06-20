@@ -8,25 +8,18 @@ public:
             vec[i].first=position[i];
             vec[i].second=speed[i];
         }
-        sort(vec.begin(),vec.end());
-        stack<double> st;
+        sort(vec.rbegin(),vec.rend());
         int cnt=0;
-        for(int i=0;i<n;i++)
+        double maxi=0.0;
+        for(auto& [pos,sp] : vec)
         {
-            double pos=vec[i].first,sp=vec[i].second;
-            double time = (target-pos)/sp;
-            st.push(time);
-        }
-        while(!st.empty())
-        {
-            double k=st.top();
-            st.pop();
-            while(!st.empty() && k>=st.top())
+            double time = (double)(target-pos)/sp;
+            if(time>maxi)
             {
-                st.pop();
+                cnt++;
+                maxi=time;
             }
-            cnt++;
-        }
+        }   
         return cnt;
     }
 };
