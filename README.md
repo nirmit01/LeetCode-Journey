@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2574-left-and-right-sum-differences](https://github.com/nirmit01/LeetCode-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nirmit01/LeetCode-Journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nirmit01/LeetCode-Journey/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nirmit01/LeetCode-Journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nirmit01/LeetCode-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2540-minimum-common-value](https://github.com/nirmit01/LeetCode-Journey/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nirmit01/LeetCode-Journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/nirmit01/LeetCode-Journey/tree/master/2716-minimize-string-length) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nirmit01/LeetCode-Journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2126-destroying-asteroids](https://github.com/nirmit01/LeetCode-Journey/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nirmit01/LeetCode-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/nirmit01/LeetCode-Journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Heap (Priority Queue)
