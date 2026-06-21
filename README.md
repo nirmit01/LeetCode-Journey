@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/nirmit01/LeetCode-Journey/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/nirmit01/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/nirmit01/LeetCode-Journey/tree/master/0041-first-missing-positive) |
 | [0208-implement-trie-prefix-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/nirmit01/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
