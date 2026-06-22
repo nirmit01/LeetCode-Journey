@@ -10,11 +10,7 @@ public:
         }
         for(int i=0;i<n-1;i+=2)
         {
-            int k;
-            if(row[i]%2)
-                k=row[i]-1;
-            else
-                k=row[i]+1;
+            int k=row[i]^1;
             if(row[i+1]!=k)
             {
                 int x=mpp[k];
