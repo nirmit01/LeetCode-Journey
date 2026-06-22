@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/nirmit01/LeetCode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/nirmit01/LeetCode-Journey/tree/master/0310-minimum-height-trees) |
+| [0765-couples-holding-hands](https://github.com/nirmit01/LeetCode-Journey/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/nirmit01/LeetCode-Journey/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/nirmit01/LeetCode-Journey/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/nirmit01/LeetCode-Journey/tree/master/0802-find-eventual-safe-states) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/nirmit01/LeetCode-Journey/tree/master/0310-minimum-height-trees) |
 | [0687-longest-univalue-path](https://github.com/nirmit01/LeetCode-Journey/tree/master/0687-longest-univalue-path) |
+| [0765-couples-holding-hands](https://github.com/nirmit01/LeetCode-Journey/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/nirmit01/LeetCode-Journey/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/nirmit01/LeetCode-Journey/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/nirmit01/LeetCode-Journey/tree/master/0802-find-eventual-safe-states) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/nirmit01/LeetCode-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0621-task-scheduler](https://github.com/nirmit01/LeetCode-Journey/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
+| [0765-couples-holding-hands](https://github.com/nirmit01/LeetCode-Journey/tree/master/0765-couples-holding-hands) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/nirmit01/LeetCode-Journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/nirmit01/LeetCode-Journey/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [0765-couples-holding-hands](https://github.com/nirmit01/LeetCode-Journey/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/nirmit01/LeetCode-Journey/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nirmit01/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/nirmit01/LeetCode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/nirmit01/LeetCode-Journey/tree/master/0310-minimum-height-trees) |
+| [0765-couples-holding-hands](https://github.com/nirmit01/LeetCode-Journey/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/nirmit01/LeetCode-Journey/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/nirmit01/LeetCode-Journey/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/nirmit01/LeetCode-Journey/tree/master/0802-find-eventual-safe-states) |
