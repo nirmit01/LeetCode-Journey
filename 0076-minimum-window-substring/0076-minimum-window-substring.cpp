@@ -6,6 +6,7 @@ public:
         unordered_map<char,int> need,have;
         for(char c:t)
             need[c]++;
+        
         int sz=need.size(),formed=0;
         int ans=INT_MAX;
         int i1=0,i2=0;
