@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/nirmit01/LeetCode-Journey/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/nirmit01/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/nirmit01/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nirmit01/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/nirmit01/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/nirmit01/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/nirmit01/LeetCode-Journey/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/nirmit01/LeetCode-Journey/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/nirmit01/LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/nirmit01/LeetCode-Journey/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/nirmit01/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/nirmit01/LeetCode-Journey/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0229-majority-element-ii) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nirmit01/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/nirmit01/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/nirmit01/LeetCode-Journey/tree/master/0621-task-scheduler) |
