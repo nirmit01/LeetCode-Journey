@@ -11,12 +11,16 @@ public:
             int diff=(nums1[i]-nums2[i]);
             curr1+=diff;
             curr2+=(-1*diff);
-            maxi1=max(maxi1,curr1);
+            
             if(curr1<0)
                 curr1=0;
-            maxi2=max(maxi2,curr2);
+            else
+                maxi1=max(maxi1,curr1);
+            
             if(curr2<0)
                 curr2=0;
+            else
+                maxi2=max(maxi2,curr2);
         }
         return max(sum1+maxi2,sum2+maxi1);
     }
