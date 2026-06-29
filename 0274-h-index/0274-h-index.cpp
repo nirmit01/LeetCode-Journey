@@ -9,14 +9,10 @@ public:
             maxi=max(maxi,i);
         }
         for(int i=maxi-1;i>=0;i--)
-        {
             check[i]+=check[i+1];
-        }
         for(int i=1;i<=maxi;i++)
-        {
             if(check[i]>=i)
                 ans=i;
-        }
         return ans;
     }
 };
