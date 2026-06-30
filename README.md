@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0697-degree-of-an-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [0739-daily-temperatures](https://github.com/nirmit01/LeetCode-Journey/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nirmit01/LeetCode-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0752-open-the-lock](https://github.com/nirmit01/LeetCode-Journey/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/nirmit01/LeetCode-Journey/tree/master/0773-sliding-puzzle) |
 | [0853-car-fleet](https://github.com/nirmit01/LeetCode-Journey/tree/master/0853-car-fleet) |
 | [0922-sort-array-by-parity-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0557-reverse-words-in-a-string-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
+| [0752-open-the-lock](https://github.com/nirmit01/LeetCode-Journey/tree/master/0752-open-the-lock) |
 | [0917-reverse-only-letters](https://github.com/nirmit01/LeetCode-Journey/tree/master/0917-reverse-only-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nirmit01/LeetCode-Journey/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/nirmit01/LeetCode-Journey/tree/master/0621-task-scheduler) |
 | [0697-degree-of-an-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
+| [0752-open-the-lock](https://github.com/nirmit01/LeetCode-Journey/tree/master/0752-open-the-lock) |
 | [1189-maximum-number-of-balloons](https://github.com/nirmit01/LeetCode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1345-jump-game-iv](https://github.com/nirmit01/LeetCode-Journey/tree/master/1345-jump-game-iv) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/nirmit01/LeetCode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/nirmit01/LeetCode-Journey/tree/master/0310-minimum-height-trees) |
+| [0752-open-the-lock](https://github.com/nirmit01/LeetCode-Journey/tree/master/0752-open-the-lock) |
 | [0765-couples-holding-hands](https://github.com/nirmit01/LeetCode-Journey/tree/master/0765-couples-holding-hands) |
 | [0773-sliding-puzzle](https://github.com/nirmit01/LeetCode-Journey/tree/master/0773-sliding-puzzle) |
 | [0785-is-graph-bipartite](https://github.com/nirmit01/LeetCode-Journey/tree/master/0785-is-graph-bipartite) |
