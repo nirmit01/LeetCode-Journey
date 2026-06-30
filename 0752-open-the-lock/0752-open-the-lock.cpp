@@ -4,11 +4,11 @@ public:
         int ans=0;
         queue<string> q;
         unordered_set<string> st(deadends.begin(),deadends.end());
-        if(!st.count("0000"))
-        {
-            q.push("0000");
-            st.insert("0000");
-        }
+        if(st.count("0000"))
+            return -1;
+        q.push("0000");
+        st.insert("0000");
+        
         if(!q.empty() && target==q.front())
             return ans;
         while(!q.empty())
