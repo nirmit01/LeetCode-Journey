@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2574-left-and-right-sum-differences](https://github.com/nirmit01/LeetCode-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nirmit01/LeetCode-Journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nirmit01/LeetCode-Journey/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nirmit01/LeetCode-Journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nirmit01/LeetCode-Journey/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1901-find-a-peak-element-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1901-find-a-peak-element-ii) |
 | [2540-minimum-common-value](https://github.com/nirmit01/LeetCode-Journey/tree/master/2540-minimum-common-value) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nirmit01/LeetCode-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nirmit01/LeetCode-Journey/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nirmit01/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nirmit01/LeetCode-Journey/tree/master/2101-detonate-the-maximum-bombs) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nirmit01/LeetCode-Journey/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
 |  |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/nirmit01/LeetCode-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/nirmit01/LeetCode-Journey/tree/master/0621-task-scheduler) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/nirmit01/LeetCode-Journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nirmit01/LeetCode-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Bit Manipulation
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0765-couples-holding-hands](https://github.com/nirmit01/LeetCode-Journey/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/nirmit01/LeetCode-Journey/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nirmit01/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -549,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0773-sliding-puzzle](https://github.com/nirmit01/LeetCode-Journey/tree/master/0773-sliding-puzzle) |
 | [1901-find-a-peak-element-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1901-find-a-peak-element-ii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Geometry
 |  |
 | ------- |
