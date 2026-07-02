@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nirmit01/LeetCode-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nirmit01/LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nirmit01/LeetCode-Journey/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmit01/LeetCode-Journey/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2321-maximum-score-of-spliced-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/2321-maximum-score-of-spliced-array) |
 | [2540-minimum-common-value](https://github.com/nirmit01/LeetCode-Journey/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/nirmit01/LeetCode-Journey/tree/master/2574-left-and-right-sum-differences) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nirmit01/LeetCode-Journey/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nirmit01/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nirmit01/LeetCode-Journey/tree/master/2101-detonate-the-maximum-bombs) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmit01/LeetCode-Journey/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nirmit01/LeetCode-Journey/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/nirmit01/LeetCode-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/nirmit01/LeetCode-Journey/tree/master/0621-task-scheduler) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/nirmit01/LeetCode-Journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmit01/LeetCode-Journey/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1971-find-if-path-exists-in-graph](https://github.com/nirmit01/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2050-parallel-courses-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/2050-parallel-courses-iii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nirmit01/LeetCode-Journey/tree/master/2101-detonate-the-maximum-bombs) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmit01/LeetCode-Journey/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Design
 |  |
@@ -561,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0773-sliding-puzzle](https://github.com/nirmit01/LeetCode-Journey/tree/master/0773-sliding-puzzle) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nirmit01/LeetCode-Journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1901-find-a-peak-element-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1901-find-a-peak-element-ii) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmit01/LeetCode-Journey/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Geometry
@@ -575,5 +580,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Shortest Path
 |  |
 | ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmit01/LeetCode-Journey/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
