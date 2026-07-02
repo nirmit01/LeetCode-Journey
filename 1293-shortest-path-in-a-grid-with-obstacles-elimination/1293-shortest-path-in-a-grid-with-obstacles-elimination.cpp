@@ -4,6 +4,8 @@ public:
         int n=grid.size(),m=grid[0].size();
         if(n==1 && m==1)
             return 0;
+        if(k>=m+n-2)
+            return m+n-2;
         if(grid[0][0]==1)
             k--;
         if(k<0)
