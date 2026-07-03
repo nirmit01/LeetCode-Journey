@@ -18,9 +18,7 @@ public:
                     dist[v]=dist[node]+w; 
             }
         }
-        if(dist[n-1]>k)
-            return false;
-        return true;
+        return dist[n-1]<=k;
     }
     int findMaxPathScore(vector<vector<int>>& edges, vector<bool>& online, long long k) {
         int n=online.size();
