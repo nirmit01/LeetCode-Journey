@@ -17,7 +17,7 @@ public:
         {
             int k=q.front();
             q.pop();
-            for(auto [v,d]:adj[k])
+            for(auto& [v,d]:adj[k])
             {
                 ans=min(ans,d);
                 if(!vis[v])
