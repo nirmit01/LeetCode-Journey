@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nirmit01/LeetCode-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nirmit01/LeetCode-Journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1301-number-of-paths-with-max-score](https://github.com/nirmit01/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/nirmit01/LeetCode-Journey/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/nirmit01/LeetCode-Journey/tree/master/1345-jump-game-iv) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0773-sliding-puzzle](https://github.com/nirmit01/LeetCode-Journey/tree/master/0773-sliding-puzzle) |
 | [0790-domino-and-tromino-tiling](https://github.com/nirmit01/LeetCode-Journey/tree/master/0790-domino-and-tromino-tiling) |
+| [1301-number-of-paths-with-max-score](https://github.com/nirmit01/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/nirmit01/LeetCode-Journey/tree/master/1340-jump-game-v) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1387-sort-integers-by-the-power-value](https://github.com/nirmit01/LeetCode-Journey/tree/master/1387-sort-integers-by-the-power-value) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0773-sliding-puzzle](https://github.com/nirmit01/LeetCode-Journey/tree/master/0773-sliding-puzzle) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nirmit01/LeetCode-Journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1301-number-of-paths-with-max-score](https://github.com/nirmit01/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/nirmit01/LeetCode-Journey/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1901-find-a-peak-element-ii) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmit01/LeetCode-Journey/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
