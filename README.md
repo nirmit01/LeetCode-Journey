@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nirmit01/LeetCode-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/nirmit01/LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/nirmit01/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/nirmit01/LeetCode-Journey/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/nirmit01/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/nirmit01/LeetCode-Journey/tree/master/0076-minimum-window-substring) |
