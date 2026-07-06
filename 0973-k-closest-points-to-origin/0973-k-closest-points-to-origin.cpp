@@ -6,16 +6,9 @@ public:
         for(int i=0;i<n;i++)
         {
             int x=points[i][0],y=points[i][1];
-            int val=x*x+y*y;
-            while(pq.size()>k)
+            pq.push({x*x+y*y,i});
+            if(pq.size()>k)
                 pq.pop();
-            if(pq.size()<k)
-                pq.push({val,i});
-            else if(pq.top().first>val)
-            {
-                pq.pop();
-                pq.push({val,i});
-            }
         }
         vector<vector<int>> ans;
         while(!pq.empty())
