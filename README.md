@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0752-open-the-lock](https://github.com/nirmit01/LeetCode-Journey/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/nirmit01/LeetCode-Journey/tree/master/0773-sliding-puzzle) |
 | [0815-bus-routes](https://github.com/nirmit01/LeetCode-Journey/tree/master/0815-bus-routes) |
+| [0827-making-a-large-island](https://github.com/nirmit01/LeetCode-Journey/tree/master/0827-making-a-large-island) |
 | [0853-car-fleet](https://github.com/nirmit01/LeetCode-Journey/tree/master/0853-car-fleet) |
 | [0922-sort-array-by-parity-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nirmit01/LeetCode-Journey/tree/master/0944-delete-columns-to-make-sorted) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0797-all-paths-from-source-to-target](https://github.com/nirmit01/LeetCode-Journey/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/nirmit01/LeetCode-Journey/tree/master/0802-find-eventual-safe-states) |
 | [0815-bus-routes](https://github.com/nirmit01/LeetCode-Journey/tree/master/0815-bus-routes) |
+| [0827-making-a-large-island](https://github.com/nirmit01/LeetCode-Journey/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/nirmit01/LeetCode-Journey/tree/master/0841-keys-and-rooms) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/nirmit01/LeetCode-Journey/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nirmit01/LeetCode-Journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0785-is-graph-bipartite](https://github.com/nirmit01/LeetCode-Journey/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/nirmit01/LeetCode-Journey/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/nirmit01/LeetCode-Journey/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/nirmit01/LeetCode-Journey/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/nirmit01/LeetCode-Journey/tree/master/0841-keys-and-rooms) |
 | [1306-jump-game-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1306-jump-game-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/nirmit01/LeetCode-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0765-couples-holding-hands](https://github.com/nirmit01/LeetCode-Journey/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/nirmit01/LeetCode-Journey/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/nirmit01/LeetCode-Journey/tree/master/0827-making-a-large-island) |
 | [1631-path-with-minimum-effort](https://github.com/nirmit01/LeetCode-Journey/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nirmit01/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nirmit01/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -605,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/nirmit01/LeetCode-Journey/tree/master/0773-sliding-puzzle) |
+| [0827-making-a-large-island](https://github.com/nirmit01/LeetCode-Journey/tree/master/0827-making-a-large-island) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nirmit01/LeetCode-Journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/nirmit01/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/nirmit01/LeetCode-Journey/tree/master/1631-path-with-minimum-effort) |
