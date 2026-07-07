@@ -1,15 +1,28 @@
 class Solution {
 public:
     int maximum69Number (int num) {
-        string s=to_string(num);
-        for(char& c:s)
+        int temp=num,pos=0,curr=1;
+        while(temp>0)
         {
-            if(c=='6')
+            int k=temp%10;
+            temp/=10;
+            if(k==6)
             {
-                c='9';
-                break;
+                pos=curr;
             }
+            curr*=10;
         }
-        return stoi(s);
+        num+=3*pos;
+        return num;
+        // string s=to_string(num);
+        // for(char& c:s)
+        // {
+        //     if(c=='6')
+        //     {
+        //         c='9';
+        //         break;
+        //     }
+        // }
+        // return stoi(s);
     }
 };
