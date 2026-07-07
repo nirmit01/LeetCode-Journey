@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirmit01/LeetCode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0220-contains-duplicate-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/nirmit01/LeetCode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/nirmit01/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/nirmit01/LeetCode-Journey/tree/master/0075-sort-colors) |
+| [0220-contains-duplicate-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/nirmit01/LeetCode-Journey/tree/master/0274-h-index) |
 | [0621-task-scheduler](https://github.com/nirmit01/LeetCode-Journey/tree/master/0621-task-scheduler) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0076-minimum-window-substring](https://github.com/nirmit01/LeetCode-Journey/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0220-contains-duplicate-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/nirmit01/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0220-contains-duplicate-iii) |
 | [0493-reverse-pairs](https://github.com/nirmit01/LeetCode-Journey/tree/master/0493-reverse-pairs) |
 ## Matrix
 |  |
@@ -629,4 +633,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/nirmit01/LeetCode-Journey/tree/master/0973-k-closest-points-to-origin) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
