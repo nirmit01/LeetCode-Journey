@@ -2,15 +2,15 @@ class Solution {
 public:
     long long sumAndMultiply(int n) {
         long long sum=0,ans=0;
-        string s=to_string(n);
-        for(char c:s)
+        int r=1;
+        while(n>0)
         {
-            if(c!='0')
-            {
-                int x=c-'0';
-                ans=ans*10+x;
-                sum+=x;
-            }
+            int x=n%10;
+            n/=10;
+            if(x==0)    continue;
+            sum+=x;
+            ans=ans+x*r;
+            r*=10;
         }
         return ans*sum;
     }
