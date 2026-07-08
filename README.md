@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3120-count-the-number-of-special-characters-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3612-process-string-with-special-operations-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3700-number-of-zigzag-arrays-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2574-left-and-right-sum-differences](https://github.com/nirmit01/LeetCode-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Memoization
 |  |
 | ------- |
