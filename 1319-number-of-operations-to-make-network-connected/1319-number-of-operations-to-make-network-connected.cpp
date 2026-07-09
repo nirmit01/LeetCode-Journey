@@ -26,16 +26,13 @@ public:
         parent=vector<int>(n);
         size=vector<int>(n,1);
         for(int i=0;i<n;i++)
-        {
             parent[i]=i;
-        }
         for(auto& v:connections)
-        {
             unite(v[0],v[1]);
-        }
-        unordered_set<int> st;
-        for(int i:parent)
-            st.insert(find(i));
-        return st.size()-1;
+        int ans=-1;
+        for(int i=0;i<n;i++)
+            if(parent[i]==i)
+                ans++;
+        return ans;
     }
 };
