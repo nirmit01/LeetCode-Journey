@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/nirmit01/LeetCode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/nirmit01/LeetCode-Journey/tree/master/0310-minimum-height-trees) |
+| [0684-redundant-connection](https://github.com/nirmit01/LeetCode-Journey/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/nirmit01/LeetCode-Journey/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/nirmit01/LeetCode-Journey/tree/master/0752-open-the-lock) |
 | [0765-couples-holding-hands](https://github.com/nirmit01/LeetCode-Journey/tree/master/0765-couples-holding-hands) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/nirmit01/LeetCode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/nirmit01/LeetCode-Journey/tree/master/0310-minimum-height-trees) |
+| [0684-redundant-connection](https://github.com/nirmit01/LeetCode-Journey/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/nirmit01/LeetCode-Journey/tree/master/0687-longest-univalue-path) |
 | [0743-network-delay-time](https://github.com/nirmit01/LeetCode-Journey/tree/master/0743-network-delay-time) |
 | [0765-couples-holding-hands](https://github.com/nirmit01/LeetCode-Journey/tree/master/0765-couples-holding-hands) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nirmit01/LeetCode-Journey/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/nirmit01/LeetCode-Journey/tree/master/0684-redundant-connection) |
 | [0765-couples-holding-hands](https://github.com/nirmit01/LeetCode-Journey/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/nirmit01/LeetCode-Journey/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/nirmit01/LeetCode-Journey/tree/master/0827-making-a-large-island) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/nirmit01/LeetCode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/nirmit01/LeetCode-Journey/tree/master/0310-minimum-height-trees) |
+| [0684-redundant-connection](https://github.com/nirmit01/LeetCode-Journey/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/nirmit01/LeetCode-Journey/tree/master/0743-network-delay-time) |
 | [0765-couples-holding-hands](https://github.com/nirmit01/LeetCode-Journey/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/nirmit01/LeetCode-Journey/tree/master/0785-is-graph-bipartite) |
