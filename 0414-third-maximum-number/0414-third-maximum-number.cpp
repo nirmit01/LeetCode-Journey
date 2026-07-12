@@ -1,26 +1,28 @@
 class Solution {
 public:
     int thirdMax(vector<int>& nums) {
-        unordered_set<int> st;
-        int ans=INT_MIN;
-        for(int i:nums)
+        long long first=nums[0],second=LLONG_MIN,third=LLONG_MIN;
+        int n=nums.size();
+        for(int i=1;i<n;i++)
         {
-            st.insert(i);
-            ans=max(ans,i);
-        }
-        if(st.size()<3)
-            return ans;
-        int max2=INT_MIN,max3=INT_MIN;
-        for(int i:st)
-        {
-            if(i<ans && i>max2)
+            if(nums[i]==first || nums[i]==second || nums[i]==third)
+                continue;
+            if(nums[i]>first)
             {
-                max3=max2;
-                max2=i;
+                third=second;
+                second=first;
+                first=nums[i];
             }
-            if(i<max2 && i>max3)
-                max3=i;
+            else if(nums[i]<first && nums[i]>second)
+            {
+                third=second;
+                second=nums[i];
+            }
+            else if(nums[i]<second && nums[i]>third)
+                third=nums[i];
         }
-        return max3;
+        if(third==LLONG_MIN)
+            return first;
+        return third;
     }
 };
