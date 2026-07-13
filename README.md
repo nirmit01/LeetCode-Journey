@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0525-contiguous-array) |
 | [0598-range-addition-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0598-range-addition-ii) |
 | [0621-task-scheduler](https://github.com/nirmit01/LeetCode-Journey/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [0721-accounts-merge](https://github.com/nirmit01/LeetCode-Journey/tree/master/0721-accounts-merge) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirmit01/LeetCode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0371-sum-of-two-integers) |
 | [0598-range-addition-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/nirmit01/LeetCode-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1323-maximum-69-number](https://github.com/nirmit01/LeetCode-Journey/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nirmit01/LeetCode-Journey/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0274-h-index](https://github.com/nirmit01/LeetCode-Journey/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/nirmit01/LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0621-task-scheduler](https://github.com/nirmit01/LeetCode-Journey/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/nirmit01/LeetCode-Journey/tree/master/0721-accounts-merge) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nirmit01/LeetCode-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/nirmit01/LeetCode-Journey/tree/master/0853-car-fleet) |
