@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1344-angle-between-hands-of-a-clock](https://github.com/nirmit01/LeetCode-Journey/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nirmit01/LeetCode-Journey/tree/master/2101-detonate-the-maximum-bombs) |
+| [2413-smallest-even-multiple](https://github.com/nirmit01/LeetCode-Journey/tree/master/2413-smallest-even-multiple) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nirmit01/LeetCode-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nirmit01/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/nirmit01/LeetCode-Journey/tree/master/2413-smallest-even-multiple) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nirmit01/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nirmit01/LeetCode-Journey/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nirmit01/LeetCode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
