@@ -13,20 +13,23 @@ public:
         return a;
     }
     int subarrayGCD(vector<int>& nums, int k) {
-        int n=nums.size();
-        int cnt=0;
-        for(int i=0;i<n;i++)
+        unordered_map<int,int> prev;
+        int ans=0;
+        for(int i:nums)
         {
-            int g=nums[i];
-            for(int j=i;j<n;j++)
+            unordered_map<int,int> curr;
+            curr[i]++;
+            for(auto& [g,cnt] : prev)
             {
-                g=gcd(g,nums[j]);
-                if(g==k)
-                    cnt++;
-                if(g<k)
-                    break;
+                int ng=gcd(g,i);
+                curr[ng]+=cnt;
             }
+            if(curr.count(k))
+            {
+                ans+=curr[k];
+            }
+            prev=curr;
         }
-        return cnt;
+        return  ans;
     }
 };
