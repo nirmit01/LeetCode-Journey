@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0790-domino-and-tromino-tiling](https://github.com/nirmit01/LeetCode-Journey/tree/master/0790-domino-and-tromino-tiling) |
 | [1301-number-of-paths-with-max-score](https://github.com/nirmit01/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/nirmit01/LeetCode-Journey/tree/master/1340-jump-game-v) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/nirmit01/LeetCode-Journey/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-sort-integers-by-the-power-value](https://github.com/nirmit01/LeetCode-Journey/tree/master/1387-sort-integers-by-the-power-value) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0973-k-closest-points-to-origin](https://github.com/nirmit01/LeetCode-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1323-maximum-69-number](https://github.com/nirmit01/LeetCode-Journey/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nirmit01/LeetCode-Journey/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/nirmit01/LeetCode-Journey/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nirmit01/LeetCode-Journey/tree/master/2101-detonate-the-maximum-bombs) |
 | [2413-smallest-even-multiple](https://github.com/nirmit01/LeetCode-Journey/tree/master/2413-smallest-even-multiple) |
@@ -767,5 +769,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Combinatorics
 |  |
 | ------- |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/nirmit01/LeetCode-Journey/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nirmit01/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
