@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nirmit01/LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/nirmit01/LeetCode-Journey/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1901-find-a-peak-element-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1901-find-a-peak-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/nirmit01/LeetCode-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nirmit01/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2050-parallel-courses-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/2050-parallel-courses-iii) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nirmit01/LeetCode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/nirmit01/LeetCode-Journey/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/nirmit01/LeetCode-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nirmit01/LeetCode-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nirmit01/LeetCode-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nirmit01/LeetCode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/nirmit01/LeetCode-Journey/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/nirmit01/LeetCode-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Queue
 |  |
 | ------- |
