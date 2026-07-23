@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0773-sliding-puzzle](https://github.com/nirmit01/LeetCode-Journey/tree/master/0773-sliding-puzzle) |
 | [0790-domino-and-tromino-tiling](https://github.com/nirmit01/LeetCode-Journey/tree/master/0790-domino-and-tromino-tiling) |
+| [0834-sum-of-distances-in-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0834-sum-of-distances-in-tree) |
 | [1301-number-of-paths-with-max-score](https://github.com/nirmit01/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/nirmit01/LeetCode-Journey/tree/master/1340-jump-game-v) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/nirmit01/LeetCode-Journey/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0797-all-paths-from-source-to-target](https://github.com/nirmit01/LeetCode-Journey/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/nirmit01/LeetCode-Journey/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/nirmit01/LeetCode-Journey/tree/master/0827-making-a-large-island) |
+| [0834-sum-of-distances-in-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/nirmit01/LeetCode-Journey/tree/master/0841-keys-and-rooms) |
 | [1306-jump-game-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nirmit01/LeetCode-Journey/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0112-path-sum) |
 | [0687-longest-univalue-path](https://github.com/nirmit01/LeetCode-Journey/tree/master/0687-longest-univalue-path) |
+| [0834-sum-of-distances-in-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0834-sum-of-distances-in-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nirmit01/LeetCode-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0785-is-graph-bipartite](https://github.com/nirmit01/LeetCode-Journey/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/nirmit01/LeetCode-Journey/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/nirmit01/LeetCode-Journey/tree/master/0802-find-eventual-safe-states) |
+| [0834-sum-of-distances-in-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/nirmit01/LeetCode-Journey/tree/master/0841-keys-and-rooms) |
 | [0990-satisfiability-of-equality-equations](https://github.com/nirmit01/LeetCode-Journey/tree/master/0990-satisfiability-of-equality-equations) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/nirmit01/LeetCode-Journey/tree/master/1129-shortest-path-with-alternating-colors) |
