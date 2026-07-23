@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0815-bus-routes](https://github.com/nirmit01/LeetCode-Journey/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/nirmit01/LeetCode-Journey/tree/master/0827-making-a-large-island) |
 | [0853-car-fleet](https://github.com/nirmit01/LeetCode-Journey/tree/master/0853-car-fleet) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0922-sort-array-by-parity-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nirmit01/LeetCode-Journey/tree/master/0944-delete-columns-to-make-sorted) |
 | [0973-k-closest-points-to-origin](https://github.com/nirmit01/LeetCode-Journey/tree/master/0973-k-closest-points-to-origin) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0630-course-schedule-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0630-course-schedule-iii) |
 | [0678-valid-parenthesis-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0765-couples-holding-hands](https://github.com/nirmit01/LeetCode-Journey/tree/master/0765-couples-holding-hands) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nirmit01/LeetCode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1323-maximum-69-number](https://github.com/nirmit01/LeetCode-Journey/tree/master/1323-maximum-69-number) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/nirmit01/LeetCode-Journey/tree/master/0721-accounts-merge) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nirmit01/LeetCode-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/nirmit01/LeetCode-Journey/tree/master/0853-car-fleet) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0922-sort-array-by-parity-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/nirmit01/LeetCode-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/nirmit01/LeetCode-Journey/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0630-course-schedule-iii) |
 | [0743-network-delay-time](https://github.com/nirmit01/LeetCode-Journey/tree/master/0743-network-delay-time) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0973-k-closest-points-to-origin](https://github.com/nirmit01/LeetCode-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/nirmit01/LeetCode-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/nirmit01/LeetCode-Journey/tree/master/1383-maximum-performance-of-a-team) |
