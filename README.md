@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1944-number-of-visible-people-in-a-queue](https://github.com/nirmit01/LeetCode-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nirmit01/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [2050-parallel-courses-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/2050-parallel-courses-iii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nirmit01/LeetCode-Journey/tree/master/2101-detonate-the-maximum-bombs) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/nirmit01/LeetCode-Journey/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/nirmit01/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1871-jump-game-vii) |
+| [1991-find-the-middle-index-in-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/nirmit01/LeetCode-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nirmit01/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
