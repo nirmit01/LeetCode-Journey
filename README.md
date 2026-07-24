@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [0721-accounts-merge](https://github.com/nirmit01/LeetCode-Journey/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/nirmit01/LeetCode-Journey/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/nirmit01/LeetCode-Journey/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nirmit01/LeetCode-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0752-open-the-lock](https://github.com/nirmit01/LeetCode-Journey/tree/master/0752-open-the-lock) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/nirmit01/LeetCode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/nirmit01/LeetCode-Journey/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/nirmit01/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/nirmit01/LeetCode-Journey/tree/master/2574-left-and-right-sum-differences) |
