@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nirmit01/LeetCode-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nirmit01/LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nirmit01/LeetCode-Journey/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2270-number-of-ways-to-split-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/2270-number-of-ways-to-split-array) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmit01/LeetCode-Journey/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2321-maximum-score-of-spliced-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/2321-maximum-score-of-spliced-array) |
 | [2402-meeting-rooms-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/2402-meeting-rooms-iii) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1732-find-the-highest-altitude](https://github.com/nirmit01/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1871-jump-game-vii) |
 | [1991-find-the-middle-index-in-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/1991-find-the-middle-index-in-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/nirmit01/LeetCode-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nirmit01/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
