@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/nirmit01/LeetCode-Journey/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/nirmit01/LeetCode-Journey/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/nirmit01/LeetCode-Journey/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/nirmit01/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nirmit01/LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nirmit01/LeetCode-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/nirmit01/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/nirmit01/LeetCode-Journey/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/nirmit01/LeetCode-Journey/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/nirmit01/LeetCode-Journey/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/nirmit01/LeetCode-Journey/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/nirmit01/LeetCode-Journey/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/nirmit01/LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/nirmit01/LeetCode-Journey/tree/master/0068-text-justification) |
 | [1260-shift-2d-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nirmit01/LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2402-meeting-rooms-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/2402-meeting-rooms-iii) |
