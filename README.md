@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/nirmit01/LeetCode-Journey/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1901-find-a-peak-element-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1901-find-a-peak-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/nirmit01/LeetCode-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/nirmit01/LeetCode-Journey/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nirmit01/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/1991-find-the-middle-index-in-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1631-path-with-minimum-effort](https://github.com/nirmit01/LeetCode-Journey/tree/master/1631-path-with-minimum-effort) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1901-find-a-peak-element-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1901-find-a-peak-element-ii) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/nirmit01/LeetCode-Journey/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2540-minimum-common-value](https://github.com/nirmit01/LeetCode-Journey/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nirmit01/LeetCode-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/nirmit01/LeetCode-Journey/tree/master/0493-reverse-pairs) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/nirmit01/LeetCode-Journey/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 ## Segment Tree
 |  |
 | ------- |
