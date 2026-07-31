@@ -9,7 +9,7 @@ public:
             ans.push_back(temp);
             return;
         }
-        string s=mpp[digits[i]-'0'];
+        string& s=mpp[digits[i]-'0'];
         for(char c:s)
         {
             temp.push_back(c);
