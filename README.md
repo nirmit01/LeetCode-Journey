@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/nirmit01/LeetCode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/nirmit01/LeetCode-Journey/tree/master/0274-h-index) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nirmit01/LeetCode-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/nirmit01/LeetCode-Journey/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/nirmit01/LeetCode-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0414-third-maximum-number](https://github.com/nirmit01/LeetCode-Journey/tree/master/0414-third-maximum-number) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0091-decode-ways](https://github.com/nirmit01/LeetCode-Journey/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/nirmit01/LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nirmit01/LeetCode-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/nirmit01/LeetCode-Journey/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/nirmit01/LeetCode-Journey/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/nirmit01/LeetCode-Journey/tree/master/0392-is-subsequence) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/nirmit01/LeetCode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/nirmit01/LeetCode-Journey/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nirmit01/LeetCode-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/nirmit01/LeetCode-Journey/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/nirmit01/LeetCode-Journey/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/nirmit01/LeetCode-Journey/tree/master/0743-network-delay-time) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/nirmit01/LeetCode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/nirmit01/LeetCode-Journey/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nirmit01/LeetCode-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/nirmit01/LeetCode-Journey/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/nirmit01/LeetCode-Journey/tree/master/0687-longest-univalue-path) |
 | [0721-accounts-merge](https://github.com/nirmit01/LeetCode-Journey/tree/master/0721-accounts-merge) |
@@ -640,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Memoization
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nirmit01/LeetCode-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0773-sliding-puzzle](https://github.com/nirmit01/LeetCode-Journey/tree/master/0773-sliding-puzzle) |
 | [1387-sort-integers-by-the-power-value](https://github.com/nirmit01/LeetCode-Journey/tree/master/1387-sort-integers-by-the-power-value) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/nirmit01/LeetCode-Journey/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -681,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/nirmit01/LeetCode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/nirmit01/LeetCode-Journey/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nirmit01/LeetCode-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/nirmit01/LeetCode-Journey/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/nirmit01/LeetCode-Journey/tree/master/0743-network-delay-time) |
 | [0765-couples-holding-hands](https://github.com/nirmit01/LeetCode-Journey/tree/master/0765-couples-holding-hands) |
@@ -769,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/nirmit01/LeetCode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/nirmit01/LeetCode-Journey/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nirmit01/LeetCode-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/nirmit01/LeetCode-Journey/tree/master/0802-find-eventual-safe-states) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/nirmit01/LeetCode-Journey/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2050-parallel-courses-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/2050-parallel-courses-iii) |
@@ -814,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nirmit01/LeetCode-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0773-sliding-puzzle](https://github.com/nirmit01/LeetCode-Journey/tree/master/0773-sliding-puzzle) |
 | [0827-making-a-large-island](https://github.com/nirmit01/LeetCode-Journey/tree/master/0827-making-a-large-island) |
 | [1260-shift-2d-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
