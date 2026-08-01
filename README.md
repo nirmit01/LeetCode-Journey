@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0827-making-a-large-island](https://github.com/nirmit01/LeetCode-Journey/tree/master/0827-making-a-large-island) |
 | [0853-car-fleet](https://github.com/nirmit01/LeetCode-Journey/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0877-stone-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/nirmit01/LeetCode-Journey/tree/master/0904-fruit-into-baskets) |
 | [0922-sort-array-by-parity-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nirmit01/LeetCode-Journey/tree/master/0944-delete-columns-to-make-sorted) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0773-sliding-puzzle](https://github.com/nirmit01/LeetCode-Journey/tree/master/0773-sliding-puzzle) |
 | [0790-domino-and-tromino-tiling](https://github.com/nirmit01/LeetCode-Journey/tree/master/0790-domino-and-tromino-tiling) |
 | [0834-sum-of-distances-in-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0834-sum-of-distances-in-tree) |
+| [0877-stone-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/nirmit01/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/nirmit01/LeetCode-Journey/tree/master/1340-jump-game-v) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/nirmit01/LeetCode-Journey/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0371-sum-of-two-integers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0371-sum-of-two-integers) |
 | [0598-range-addition-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/nirmit01/LeetCode-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1323-maximum-69-number](https://github.com/nirmit01/LeetCode-Journey/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nirmit01/LeetCode-Journey/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -864,4 +867,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/nirmit01/LeetCode-Journey/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nirmit01/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
