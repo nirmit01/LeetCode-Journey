@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/nirmit01/LeetCode-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0414-third-maximum-number](https://github.com/nirmit01/LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0486-predict-the-winner](https://github.com/nirmit01/LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/nirmit01/LeetCode-Journey/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/nirmit01/LeetCode-Journey/tree/master/0502-ipo) |
 | [0525-contiguous-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0525-contiguous-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/nirmit01/LeetCode-Journey/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/nirmit01/LeetCode-Journey/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/nirmit01/LeetCode-Journey/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/nirmit01/LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0773-sliding-puzzle](https://github.com/nirmit01/LeetCode-Journey/tree/master/0773-sliding-puzzle) |
 | [0790-domino-and-tromino-tiling](https://github.com/nirmit01/LeetCode-Journey/tree/master/0790-domino-and-tromino-tiling) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/nirmit01/LeetCode-Journey/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirmit01/LeetCode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0371-sum-of-two-integers) |
+| [0486-predict-the-winner](https://github.com/nirmit01/LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0598-range-addition-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/0877-stone-game) |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0024-swap-nodes-in-pairs](https://github.com/nirmit01/LeetCode-Journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/nirmit01/LeetCode-Journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0394-decode-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/nirmit01/LeetCode-Journey/tree/master/0486-predict-the-winner) |
 ## Union-Find
 |  |
 | ------- |
@@ -870,5 +874,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/nirmit01/LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
