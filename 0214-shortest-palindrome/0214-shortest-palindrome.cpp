@@ -35,8 +35,6 @@ public:
 
         string s2=s.substr(k);
         reverse(s2.begin(),s2.end());
-        
-        string ans=s2+s;
-        return ans;
+        return s2+s;
     }
 };
