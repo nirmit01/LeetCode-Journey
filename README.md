@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/nirmit01/LeetCode-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/nirmit01/LeetCode-Journey/tree/master/1383-maximum-performance-of-a-team) |
 | [1514-path-with-maximum-probability](https://github.com/nirmit01/LeetCode-Journey/tree/master/1514-path-with-maximum-probability) |
+| [1591-strange-printer-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1591-strange-printer-ii) |
 | [1626-best-team-with-no-conflicts](https://github.com/nirmit01/LeetCode-Journey/tree/master/1626-best-team-with-no-conflicts) |
 | [1631-path-with-minimum-effort](https://github.com/nirmit01/LeetCode-Journey/tree/master/1631-path-with-minimum-effort) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1129-shortest-path-with-alternating-colors](https://github.com/nirmit01/LeetCode-Journey/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nirmit01/LeetCode-Journey/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/nirmit01/LeetCode-Journey/tree/master/1514-path-with-maximum-probability) |
+| [1591-strange-printer-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1591-strange-printer-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/nirmit01/LeetCode-Journey/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nirmit01/LeetCode-Journey/tree/master/1971-find-if-path-exists-in-graph) |
 | [2050-parallel-courses-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/2050-parallel-courses-iii) |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0310-minimum-height-trees](https://github.com/nirmit01/LeetCode-Journey/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nirmit01/LeetCode-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/nirmit01/LeetCode-Journey/tree/master/0802-find-eventual-safe-states) |
+| [1591-strange-printer-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1591-strange-printer-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/nirmit01/LeetCode-Journey/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2050-parallel-courses-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/2050-parallel-courses-iii) |
 | [3620-network-recovery-pathways](https://github.com/nirmit01/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
@@ -843,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nirmit01/LeetCode-Journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/nirmit01/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
+| [1591-strange-printer-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1591-strange-printer-ii) |
 | [1631-path-with-minimum-effort](https://github.com/nirmit01/LeetCode-Journey/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1901-find-a-peak-element-ii) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmit01/LeetCode-Journey/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
