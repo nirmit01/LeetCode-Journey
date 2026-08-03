@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1345-jump-game-iv](https://github.com/nirmit01/LeetCode-Journey/tree/master/1345-jump-game-iv) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/nirmit01/LeetCode-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/nirmit01/LeetCode-Journey/tree/master/1383-maximum-performance-of-a-team) |
+| [1406-stone-game-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1514-path-with-maximum-probability](https://github.com/nirmit01/LeetCode-Journey/tree/master/1514-path-with-maximum-probability) |
 | [1591-strange-printer-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1591-strange-printer-ii) |
 | [1626-best-team-with-no-conflicts](https://github.com/nirmit01/LeetCode-Journey/tree/master/1626-best-team-with-no-conflicts) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-sort-integers-by-the-power-value](https://github.com/nirmit01/LeetCode-Journey/tree/master/1387-sort-integers-by-the-power-value) |
+| [1406-stone-game-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nirmit01/LeetCode-Journey/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1626-best-team-with-no-conflicts](https://github.com/nirmit01/LeetCode-Journey/tree/master/1626-best-team-with-no-conflicts) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1323-maximum-69-number](https://github.com/nirmit01/LeetCode-Journey/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nirmit01/LeetCode-Journey/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/nirmit01/LeetCode-Journey/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [1406-stone-game-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nirmit01/LeetCode-Journey/tree/master/2101-detonate-the-maximum-bombs) |
 | [2266-count-number-of-texts](https://github.com/nirmit01/LeetCode-Journey/tree/master/2266-count-number-of-texts) |
@@ -896,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/nirmit01/LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Bitmask
 |  |
