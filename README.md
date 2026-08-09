@@ -940,4 +940,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/1025-divisor-game) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
