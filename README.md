@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nirmit01/LeetCode-Journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/nirmit01/LeetCode-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/nirmit01/LeetCode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0210-course-schedule-ii) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nirmit01/LeetCode-Journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/nirmit01/LeetCode-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/nirmit01/LeetCode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0210-course-schedule-ii) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nirmit01/LeetCode-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nirmit01/LeetCode-Journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/nirmit01/LeetCode-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0687-longest-univalue-path](https://github.com/nirmit01/LeetCode-Journey/tree/master/0687-longest-univalue-path) |
 | [0834-sum-of-distances-in-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0834-sum-of-distances-in-tree) |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nirmit01/LeetCode-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nirmit01/LeetCode-Journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/nirmit01/LeetCode-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0687-longest-univalue-path](https://github.com/nirmit01/LeetCode-Journey/tree/master/0687-longest-univalue-path) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nirmit01/LeetCode-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -695,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/nirmit01/LeetCode-Journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/nirmit01/LeetCode-Journey/tree/master/0025-reverse-nodes-in-k-group) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nirmit01/LeetCode-Journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nirmit01/LeetCode-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nirmit01/LeetCode-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
