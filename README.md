@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/nirmit01/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/nirmit01/LeetCode-Journey/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/nirmit01/LeetCode-Journey/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0567-permutation-in-string) |
@@ -945,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/nirmit01/LeetCode-Journey/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/nirmit01/LeetCode-Journey/tree/master/0459-repeated-substring-pattern) |
 ## Hash Function
 |  |
 | ------- |
@@ -979,4 +981,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1163-last-substring-in-lexicographical-order](https://github.com/nirmit01/LeetCode-Journey/tree/master/1163-last-substring-in-lexicographical-order) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/nirmit01/LeetCode-Journey/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/nirmit01/LeetCode-Journey/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
