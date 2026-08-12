@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0990-satisfiability-of-equality-equations](https://github.com/nirmit01/LeetCode-Journey/tree/master/0990-satisfiability-of-equality-equations) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nirmit01/LeetCode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1163-last-substring-in-lexicographical-order](https://github.com/nirmit01/LeetCode-Journey/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1189-maximum-number-of-balloons](https://github.com/nirmit01/LeetCode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nirmit01/LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/nirmit01/LeetCode-Journey/tree/master/1446-consecutive-characters) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0917-reverse-only-letters](https://github.com/nirmit01/LeetCode-Journey/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1163-last-substring-in-lexicographical-order](https://github.com/nirmit01/LeetCode-Journey/tree/master/1163-last-substring-in-lexicographical-order) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nirmit01/LeetCode-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nirmit01/LeetCode-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nirmit01/LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -973,4 +975,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/nirmit01/LeetCode-Journey/tree/master/1510-stone-game-iv) |
+## Lyndon Factorization
+|  |
+| ------- |
+| [1163-last-substring-in-lexicographical-order](https://github.com/nirmit01/LeetCode-Journey/tree/master/1163-last-substring-in-lexicographical-order) |
 <!---LeetCode Topics End-->
