@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/nirmit01/LeetCode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/nirmit01/LeetCode-Journey/tree/master/0274-h-index) |
+| [0284-peeking-iterator](https://github.com/nirmit01/LeetCode-Journey/tree/master/0284-peeking-iterator) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nirmit01/LeetCode-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/nirmit01/LeetCode-Journey/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/nirmit01/LeetCode-Journey/tree/master/0368-largest-divisible-subset) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0284-peeking-iterator](https://github.com/nirmit01/LeetCode-Journey/tree/master/0284-peeking-iterator) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nirmit01/LeetCode-Journey/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/nirmit01/LeetCode-Journey/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Enumeration
@@ -1008,4 +1010,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/nirmit01/LeetCode-Journey/tree/master/0459-repeated-substring-pattern) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/nirmit01/LeetCode-Journey/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
