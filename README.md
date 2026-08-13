@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0997-find-the-town-judge](https://github.com/nirmit01/LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nirmit01/LeetCode-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1048-longest-string-chain](https://github.com/nirmit01/LeetCode-Journey/tree/master/1048-longest-string-chain) |
+| [1052-grumpy-bookstore-owner](https://github.com/nirmit01/LeetCode-Journey/tree/master/1052-grumpy-bookstore-owner) |
 | [1140-stone-game-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/nirmit01/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/nirmit01/LeetCode-Journey/tree/master/0904-fruit-into-baskets) |
+| [1052-grumpy-bookstore-owner](https://github.com/nirmit01/LeetCode-Journey/tree/master/1052-grumpy-bookstore-owner) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nirmit01/LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nirmit01/LeetCode-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1871-jump-game-vii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1871-jump-game-vii) |
