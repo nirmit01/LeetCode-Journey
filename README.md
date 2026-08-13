@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1871-jump-game-vii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nirmit01/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nirmit01/LeetCode-Journey/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2266-count-number-of-texts](https://github.com/nirmit01/LeetCode-Journey/tree/master/2266-count-number-of-texts) |
 | [2716-minimize-string-length](https://github.com/nirmit01/LeetCode-Journey/tree/master/2716-minimize-string-length) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1345-jump-game-iv](https://github.com/nirmit01/LeetCode-Journey/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nirmit01/LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/nirmit01/LeetCode-Journey/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nirmit01/LeetCode-Journey/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2266-count-number-of-texts](https://github.com/nirmit01/LeetCode-Journey/tree/master/2266-count-number-of-texts) |
 | [2402-meeting-rooms-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/2402-meeting-rooms-iii) |
