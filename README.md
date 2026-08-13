@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0990-satisfiability-of-equality-equations](https://github.com/nirmit01/LeetCode-Journey/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/nirmit01/LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nirmit01/LeetCode-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1046-last-stone-weight](https://github.com/nirmit01/LeetCode-Journey/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/nirmit01/LeetCode-Journey/tree/master/1048-longest-string-chain) |
 | [1052-grumpy-bookstore-owner](https://github.com/nirmit01/LeetCode-Journey/tree/master/1052-grumpy-bookstore-owner) |
 | [1140-stone-game-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1140-stone-game-ii) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/nirmit01/LeetCode-Journey/tree/master/0743-network-delay-time) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0973-k-closest-points-to-origin](https://github.com/nirmit01/LeetCode-Journey/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/nirmit01/LeetCode-Journey/tree/master/1046-last-stone-weight) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/nirmit01/LeetCode-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/nirmit01/LeetCode-Journey/tree/master/1383-maximum-performance-of-a-team) |
 | [1514-path-with-maximum-probability](https://github.com/nirmit01/LeetCode-Journey/tree/master/1514-path-with-maximum-probability) |
