@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nirmit01/LeetCode-Journey/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/nirmit01/LeetCode-Journey/tree/master/1510-stone-game-iv) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/nirmit01/LeetCode-Journey/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1626-best-team-with-no-conflicts](https://github.com/nirmit01/LeetCode-Journey/tree/master/1626-best-team-with-no-conflicts) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/nirmit01/LeetCode-Journey/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0464-can-i-win](https://github.com/nirmit01/LeetCode-Journey/tree/master/0464-can-i-win) |
 | [0773-sliding-puzzle](https://github.com/nirmit01/LeetCode-Journey/tree/master/0773-sliding-puzzle) |
 | [1387-sort-integers-by-the-power-value](https://github.com/nirmit01/LeetCode-Journey/tree/master/1387-sort-integers-by-the-power-value) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/nirmit01/LeetCode-Journey/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/nirmit01/LeetCode-Journey/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Linked List
 |  |
