@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/nirmit01/LeetCode-Journey/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nirmit01/LeetCode-Journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nirmit01/LeetCode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nirmit01/LeetCode-Journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nirmit01/LeetCode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3238-find-the-number-of-winning-players](https://github.com/nirmit01/LeetCode-Journey/tree/master/3238-find-the-number-of-winning-players) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1871-jump-game-vii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1871-jump-game-vii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nirmit01/LeetCode-Journey/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nirmit01/LeetCode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nirmit01/LeetCode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/nirmit01/LeetCode-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
