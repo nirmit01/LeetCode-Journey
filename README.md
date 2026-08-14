@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/nirmit01/LeetCode-Journey/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/nirmit01/LeetCode-Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0414-third-maximum-number](https://github.com/nirmit01/LeetCode-Journey/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/nirmit01/LeetCode-Journey/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/nirmit01/LeetCode-Journey/tree/master/0486-predict-the-winner) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0354-russian-doll-envelopes](https://github.com/nirmit01/LeetCode-Journey/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/nirmit01/LeetCode-Journey/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/nirmit01/LeetCode-Journey/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0464-can-i-win](https://github.com/nirmit01/LeetCode-Journey/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/nirmit01/LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/nirmit01/LeetCode-Journey/tree/master/0647-palindromic-substrings) |
@@ -1032,4 +1034,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/nirmit01/LeetCode-Journey/tree/master/0284-peeking-iterator) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
