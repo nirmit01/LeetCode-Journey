@@ -2,30 +2,16 @@ class Solution {
 public:
     string removeDuplicates(string s, int k) {
         stack<pair<char,int>> st;
-        int n=s.size();
-        int i=0;
-        while(i<n)
+        for(char c:s)
         {
-            char c=s[i];
-            int curr=0;
-            while(i<n && c==s[i])
-            {
-                curr++;
-                i++;
-            }
             if(!st.empty() && st.top().first==c)
             {
-                auto p=st.top();
-                st.pop();
-                curr+=p.second;
+                st.top().second++;
+                if(st.top().second==k)
+                    st.pop();
             }
-            if(curr>=k)
-            {
-                if(curr%k)
-                    st.push({c,curr%k});
-                continue;
-            }
-            st.push({c,curr});
+            else
+                st.push({c,1});
         }
         string ans="";
         while(!st.empty())
