@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/nirmit01/LeetCode-Journey/tree/master/0904-fruit-into-baskets) |
 | [0922-sort-array-by-parity-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0931-minimum-falling-path-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nirmit01/LeetCode-Journey/tree/master/0944-delete-columns-to-make-sorted) |
 | [0973-k-closest-points-to-origin](https://github.com/nirmit01/LeetCode-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nirmit01/LeetCode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0790-domino-and-tromino-tiling](https://github.com/nirmit01/LeetCode-Journey/tree/master/0790-domino-and-tromino-tiling) |
 | [0834-sum-of-distances-in-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0931-minimum-falling-path-sum) |
 | [1025-divisor-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/1025-divisor-game) |
 | [1048-longest-string-chain](https://github.com/nirmit01/LeetCode-Journey/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1140-stone-game-ii) |
@@ -926,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0463-island-perimeter](https://github.com/nirmit01/LeetCode-Journey/tree/master/0463-island-perimeter) |
 | [0773-sliding-puzzle](https://github.com/nirmit01/LeetCode-Journey/tree/master/0773-sliding-puzzle) |
 | [0827-making-a-large-island](https://github.com/nirmit01/LeetCode-Journey/tree/master/0827-making-a-large-island) |
+| [0931-minimum-falling-path-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nirmit01/LeetCode-Journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/nirmit01/LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
