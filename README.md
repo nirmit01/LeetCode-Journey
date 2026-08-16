@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nirmit01/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/1991-find-the-middle-index-in-array) |
+| [2029-stone-game-ix](https://github.com/nirmit01/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2050-parallel-courses-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/2050-parallel-courses-iii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nirmit01/LeetCode-Journey/tree/master/2101-detonate-the-maximum-bombs) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nirmit01/LeetCode-Journey/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/nirmit01/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nirmit01/LeetCode-Journey/tree/master/2101-detonate-the-maximum-bombs) |
 | [2266-count-number-of-texts](https://github.com/nirmit01/LeetCode-Journey/tree/master/2266-count-number-of-texts) |
 | [2413-smallest-even-multiple](https://github.com/nirmit01/LeetCode-Journey/tree/master/2413-smallest-even-multiple) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1833-maximum-ice-cream-bars](https://github.com/nirmit01/LeetCode-Journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nirmit01/LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/nirmit01/LeetCode-Journey/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [2029-stone-game-ix](https://github.com/nirmit01/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/nirmit01/LeetCode-Journey/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nirmit01/LeetCode-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -868,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/nirmit01/LeetCode-Journey/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/nirmit01/LeetCode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/nirmit01/LeetCode-Journey/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2029-stone-game-ix](https://github.com/nirmit01/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2404-most-frequent-even-element](https://github.com/nirmit01/LeetCode-Journey/tree/master/2404-most-frequent-even-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3238-find-the-number-of-winning-players](https://github.com/nirmit01/LeetCode-Journey/tree/master/3238-find-the-number-of-winning-players) |
@@ -984,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nirmit01/LeetCode-Journey/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/nirmit01/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Bitmask
 |  |
@@ -1015,15 +1020,18 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1140-stone-game-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/nirmit01/LeetCode-Journey/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/nirmit01/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/nirmit01/LeetCode-Journey/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/nirmit01/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/nirmit01/LeetCode-Journey/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/nirmit01/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
