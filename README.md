@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-last-stone-weight](https://github.com/nirmit01/LeetCode-Journey/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/nirmit01/LeetCode-Journey/tree/master/1048-longest-string-chain) |
 | [1052-grumpy-bookstore-owner](https://github.com/nirmit01/LeetCode-Journey/tree/master/1052-grumpy-bookstore-owner) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/nirmit01/LeetCode-Journey/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1140-stone-game-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/nirmit01/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0974-subarray-sums-divisible-by-k](https://github.com/nirmit01/LeetCode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/nirmit01/LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/nirmit01/LeetCode-Journey/tree/master/1048-longest-string-chain) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/nirmit01/LeetCode-Journey/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1189-maximum-number-of-balloons](https://github.com/nirmit01/LeetCode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/nirmit01/LeetCode-Journey/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nirmit01/LeetCode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/nirmit01/LeetCode-Journey/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1140-stone-game-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/nirmit01/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1871-jump-game-vii) |
@@ -952,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0773-sliding-puzzle](https://github.com/nirmit01/LeetCode-Journey/tree/master/0773-sliding-puzzle) |
 | [0827-making-a-large-island](https://github.com/nirmit01/LeetCode-Journey/tree/master/0827-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0931-minimum-falling-path-sum) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/nirmit01/LeetCode-Journey/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1260-shift-2d-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nirmit01/LeetCode-Journey/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
