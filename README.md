@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2196-create-binary-tree-from-descriptions](https://github.com/nirmit01/LeetCode-Journey/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2270-number-of-ways-to-split-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/2270-number-of-ways-to-split-array) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmit01/LeetCode-Journey/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/nirmit01/LeetCode-Journey/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2321-maximum-score-of-spliced-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/2321-maximum-score-of-spliced-array) |
 | [2402-meeting-rooms-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/2402-meeting-rooms-iii) |
 | [2404-most-frequent-even-element](https://github.com/nirmit01/LeetCode-Journey/tree/master/2404-most-frequent-even-element) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1901-find-a-peak-element-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1901-find-a-peak-element-ii) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/nirmit01/LeetCode-Journey/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nirmit01/LeetCode-Journey/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/nirmit01/LeetCode-Journey/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/nirmit01/LeetCode-Journey/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nirmit01/LeetCode-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nirmit01/LeetCode-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nirmit01/LeetCode-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nirmit01/LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/nirmit01/LeetCode-Journey/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/nirmit01/LeetCode-Journey/tree/master/2540-minimum-common-value) |
 | [2592-maximize-greatness-of-an-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/2592-maximize-greatness-of-an-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2126-destroying-asteroids](https://github.com/nirmit01/LeetCode-Journey/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nirmit01/LeetCode-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/nirmit01/LeetCode-Journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/nirmit01/LeetCode-Journey/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/2402-meeting-rooms-iii) |
 | [2542-maximum-subsequence-score](https://github.com/nirmit01/LeetCode-Journey/tree/master/2542-maximum-subsequence-score) |
 | [2592-maximize-greatness-of-an-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/2592-maximize-greatness-of-an-array) |
