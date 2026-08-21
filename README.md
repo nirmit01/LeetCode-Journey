@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nirmit01/LeetCode-Journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nirmit01/LeetCode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3238-find-the-number-of-winning-players](https://github.com/nirmit01/LeetCode-Journey/tree/master/3238-find-the-number-of-winning-players) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nirmit01/LeetCode-Journey/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/nirmit01/LeetCode-Journey/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nirmit01/LeetCode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nirmit01/LeetCode-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nirmit01/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2266-count-number-of-texts](https://github.com/nirmit01/LeetCode-Journey/tree/master/2266-count-number-of-texts) |
 | [2413-smallest-even-multiple](https://github.com/nirmit01/LeetCode-Journey/tree/master/2413-smallest-even-multiple) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/nirmit01/LeetCode-Journey/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nirmit01/LeetCode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nirmit01/LeetCode-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/nirmit01/LeetCode-Journey/tree/master/2413-smallest-even-multiple) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/nirmit01/LeetCode-Journey/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nirmit01/LeetCode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nirmit01/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/nirmit01/LeetCode-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nirmit01/LeetCode-Journey/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -659,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0464-can-i-win](https://github.com/nirmit01/LeetCode-Journey/tree/master/0464-can-i-win) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nirmit01/LeetCode-Journey/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nirmit01/LeetCode-Journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nirmit01/LeetCode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -1001,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/nirmit01/LeetCode-Journey/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nirmit01/LeetCode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nirmit01/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 ## Game Theory
 |  |
