@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nirmit01/LeetCode-Journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3101-count-alternating-subarrays](https://github.com/nirmit01/LeetCode-Journey/tree/master/3101-count-alternating-subarrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nirmit01/LeetCode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3238-find-the-number-of-winning-players](https://github.com/nirmit01/LeetCode-Journey/tree/master/3238-find-the-number-of-winning-players) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2413-smallest-even-multiple](https://github.com/nirmit01/LeetCode-Journey/tree/master/2413-smallest-even-multiple) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/nirmit01/LeetCode-Journey/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/nirmit01/LeetCode-Journey/tree/master/2549-count-distinct-numbers-on-board) |
+| [3101-count-alternating-subarrays](https://github.com/nirmit01/LeetCode-Journey/tree/master/3101-count-alternating-subarrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nirmit01/LeetCode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/nirmit01/LeetCode-Journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
