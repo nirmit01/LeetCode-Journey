@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nirmit01/LeetCode-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/nirmit01/LeetCode-Journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/nirmit01/LeetCode-Journey/tree/master/1834-single-threaded-cpu) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/nirmit01/LeetCode-Journey/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nirmit01/LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nirmit01/LeetCode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/nirmit01/LeetCode-Journey/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/nirmit01/LeetCode-Journey/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1406-stone-game-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nirmit01/LeetCode-Journey/tree/master/1510-stone-game-iv) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/nirmit01/LeetCode-Journey/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nirmit01/LeetCode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nirmit01/LeetCode-Journey/tree/master/2029-stone-game-ix) |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0371-sum-of-two-integers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0371-sum-of-two-integers) |
 | [0464-can-i-win](https://github.com/nirmit01/LeetCode-Journey/tree/master/0464-can-i-win) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nirmit01/LeetCode-Journey/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/nirmit01/LeetCode-Journey/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nirmit01/LeetCode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nirmit01/LeetCode-Journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nirmit01/LeetCode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
