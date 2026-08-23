@@ -1,26 +1,24 @@
 class Solution {
 public:
     bool sumGame(string num) {
-        int n = num.size();
-
-        int q1 = 0, q2 = 0;
-        int sum1 = 0, sum2 = 0;
-
-        for (int i = 0; i < n / 2; i++) {
-            if (num[i] == '?')
-                q1++;
+        int marks=0, q1=0, q2=0;
+        int n=num.size();
+        for(int i=0;i<n/2;i++)
+        {
+            if(num[i]=='?')
+                marks++;
             else
-                sum1 += num[i] - '0';
+                q1+=(num[i]-'0');
         }
-
-        for (int i = n / 2; i < n; i++) {
-            if (num[i] == '?')
-                q2++;
+        for(int i=n/2;i<n;i++)
+        {
+            if(num[i]=='?')
+                marks--;
             else
-                sum2 += num[i] - '0';
+                q2+=(num[i]-'0');
         }
-
-        return (q1 + q2) % 2 == 1 ||
-               sum1 - sum2 != 9 * (q2 - q1) / 2;
+        if(marks%2!=0)
+            return true;
+        return q2-q1!=9*marks/2;
     }
 };
