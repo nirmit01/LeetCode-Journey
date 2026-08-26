@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0997-find-the-town-judge](https://github.com/nirmit01/LeetCode-Journey/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/nirmit01/LeetCode-Journey/tree/master/0999-available-captures-for-rook) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nirmit01/LeetCode-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1043-partition-array-for-maximum-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/nirmit01/LeetCode-Journey/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/nirmit01/LeetCode-Journey/tree/master/1048-longest-string-chain) |
 | [1052-grumpy-bookstore-owner](https://github.com/nirmit01/LeetCode-Journey/tree/master/1052-grumpy-bookstore-owner) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0931-minimum-falling-path-sum) |
 | [1025-divisor-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/1025-divisor-game) |
+| [1043-partition-array-for-maximum-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/nirmit01/LeetCode-Journey/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1289-minimum-falling-path-sum-ii) |
