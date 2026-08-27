@@ -3,46 +3,33 @@ public:
     string lexGreaterPermutation(string s, string target) {
         int n=s.size();
         vector<int> freq(26);
-        for(char c:s)
-            freq[c-'a']++;
-        
-        string ans="";
-        int i=0;
-        for(;i<n;i++)
+        for(int i=0;i<n;i++)
         {
-            if(freq[target[i]-'a']>0)
-            {
-                ans.push_back(target[i]);
-                freq[target[i]-'a']--;
-            }
-            else
-                break;
+            freq[s[i]-'a']++;
+            freq[target[i]-'a']--;
         }
-        while(true)
+        
+        for(int i=n-1;i>=0;i--)
         {
-            if(i<n)
+            int b=target[i]-'a';
+            freq[b]++;
+            if(*min_element(freq.begin(),freq.end())<0)
+                continue;
+            
+            for(int j=b+1;j<26;j++)
             {
-                int k=target[i]-'a';
-                for(int c=k+1;c<26;c++)
+                if(freq[j])
                 {
-                    if(freq[c]>0)
+                    freq[j]--;
+                    target[i]='a'+j;
+                    target.resize(i+1);
+                    for(int k=0;k<26;k++)
                     {
-                        ans+=char('a'+c);
-                        freq[c]--;
-                        for(int j=0;j<26;j++)
-                        {
-                            ans+=string(freq[j],char('a'+j));
-                        }
-                        return ans;
+                        target.append(freq[k],'a'+k);
                     }
+                    return target;
                 }
             }
-            if(i==0)
-                return "";
-            i--;
-            char c = ans.back();
-            ans.pop_back();
-            freq[c-'a']++;
         }
         return "";
     }
