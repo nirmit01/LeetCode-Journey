@@ -3,48 +3,37 @@ public:
     bool parseBoolExpr(string expression) {
         stack<char> st;
         int n=expression.size();
-        for(int i=0;i<n;i++)
+        for(char ch:expression)
         {
-            if(expression[i]==',')
+            if(ch==',' || ch=='(')
                 continue;
-            else if(expression[i]!=')')
-                st.push(expression[i]);
+            else if(ch!=')')
+                st.push(ch);
             else
             {
-                vector<bool> v;
-                while(st.top()!='(')
+                bool hastrue=false, hasfalse=false;
+                while(st.top()=='f' || st.top()=='t')
                 {
-                    char k=st.top();
-                    if(k=='t')
-                        v.push_back(true);
-                    else
-                        v.push_back(false);
+                    char c=st.top();
                     st.pop();
+                    if(c=='t')
+                        hastrue=true;
+                    else 
+                        hasfalse=true;
                 }
+                char op=st.top();
                 st.pop();
-                char c=st.top();
-                st.pop();
-                bool ans=v[0];
-                if(c=='&')
-                {
-                    for(bool x:v)
-                        ans = ans && x;
-                }
-                else if(c=='|')
-                {
-                    for(bool x:v)
-                        ans = ans || x;
-                }
-                else if(c=='!')
-                {
-                    ans = !ans;
-                }
-                if(ans)
-                    st.push('t');
+                bool ans;
+                if(op=='!')
+                    ans=hasfalse;
+                else if(op=='&')
+                    ans=!hasfalse;
                 else
-                    st.push('f');
+                    ans=hastrue;
+                
+                st.push(ans?'t':'f');
             }
         }
-        return st.top()=='t' ? true : false;
+        return st.top()=='t';
     }
 };
