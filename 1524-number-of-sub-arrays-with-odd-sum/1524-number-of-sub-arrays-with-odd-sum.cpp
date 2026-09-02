@@ -3,10 +3,10 @@ public:
     const int mod=1e9+7;
     int numOfSubarrays(vector<int>& arr) {
         long long eve=1, odd=0;
-        int ans=0;
+        int n=arr.size(), ans=0;
         int pref=0;
-        for(int x:arr){
-            pref+=x;
+        for(int i=0;i<n;i++){
+            pref+=arr[i];
             if(pref%2){
                 ans=(ans+eve)%mod;
                 odd++;
