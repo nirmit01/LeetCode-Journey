@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nirmit01/LeetCode-Journey/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2266-count-number-of-texts](https://github.com/nirmit01/LeetCode-Journey/tree/master/2266-count-number-of-texts) |
+| [2296-design-a-text-editor](https://github.com/nirmit01/LeetCode-Journey/tree/master/2296-design-a-text-editor) |
 | [2716-minimize-string-length](https://github.com/nirmit01/LeetCode-Journey/tree/master/2716-minimize-string-length) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/nirmit01/LeetCode-Journey/tree/master/2957-remove-adjacent-almost-equal-characters) |
@@ -832,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/nirmit01/LeetCode-Journey/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nirmit01/LeetCode-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nirmit01/LeetCode-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2296-design-a-text-editor](https://github.com/nirmit01/LeetCode-Journey/tree/master/2296-design-a-text-editor) |
 ## Recursion
 |  |
 | ------- |
@@ -900,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0284-peeking-iterator](https://github.com/nirmit01/LeetCode-Journey/tree/master/0284-peeking-iterator) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nirmit01/LeetCode-Journey/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2296-design-a-text-editor](https://github.com/nirmit01/LeetCode-Journey/tree/master/2296-design-a-text-editor) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/nirmit01/LeetCode-Journey/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Enumeration
 |  |
@@ -929,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1673-find-the-most-competitive-subsequence](https://github.com/nirmit01/LeetCode-Journey/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/nirmit01/LeetCode-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nirmit01/LeetCode-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2296-design-a-text-editor](https://github.com/nirmit01/LeetCode-Journey/tree/master/2296-design-a-text-editor) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -987,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0999-available-captures-for-rook](https://github.com/nirmit01/LeetCode-Journey/tree/master/0999-available-captures-for-rook) |
 | [1260-shift-2d-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nirmit01/LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2296-design-a-text-editor](https://github.com/nirmit01/LeetCode-Journey/tree/master/2296-design-a-text-editor) |
 | [2402-meeting-rooms-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/2402-meeting-rooms-iii) |
 | [2549-count-distinct-numbers-on-board](https://github.com/nirmit01/LeetCode-Journey/tree/master/2549-count-distinct-numbers-on-board) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -1180,4 +1185,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/nirmit01/LeetCode-Journey/tree/master/0583-delete-operation-for-two-strings) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [2296-design-a-text-editor](https://github.com/nirmit01/LeetCode-Journey/tree/master/2296-design-a-text-editor) |
 <!---LeetCode Topics End-->
