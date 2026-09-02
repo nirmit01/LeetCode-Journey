@@ -1,0 +1,21 @@
+class Solution {
+public:
+    const int mod=1e9+7;
+    int numOfSubarrays(vector<int>& arr) {
+        long long eve=1, odd=0;
+        int ans=0;
+        int pref=0;
+        for(int x:arr){
+            pref+=x;
+            if(pref%2){
+                ans=(ans+eve)%mod;
+                odd++;
+            }
+            else{
+                ans=(ans+odd)%mod;
+                eve++;    
+            }
+        }
+        return ans;
+    }
+};
