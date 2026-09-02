@@ -1,54 +1,53 @@
+auto IO = []() {
+    std::ios_base::sync_with_stdio(false);
+    std::cin.tie(NULL);
+    return 0;
+}();
+
+
 class TextEditor {
 public:
-    string s;
-    int idx;
+    string left;
+    string right;
     TextEditor() {
-        s="";
-        idx=0;
+        
     }
     
     void addText(string text) {
-        int n=text.size();
-        s.insert(idx,text);
-        idx+=n;
+        left+=text;
     }
     
     int deleteText(int k) {
-        if(idx<k)
-        {
-            int temp=idx;
-            s.erase(0,idx);
-            idx=0;
-            return temp;
-        }
-        idx-=k;
-        s.erase(idx,k);
-        return k;
+        int n=left.size();
+        int r= min(k,n);
+        left.resize(n-r);
+        return r;
     }
     
     string cursorLeft(int k) {
-        if(idx<k)
+        int n=left.size();
+        int cnt=min(k,n);
+        while(cnt--)
         {
-            idx=0;
-            return "";
+            right.push_back(left.back());
+            left.pop_back();
         }
-        idx-=k;
-        int temp=min(10,idx);
-        return s.substr(idx-temp,temp);
+        n=left.size();
+        int pos=max(0,n-10);
+        return left.substr(pos);
     }
     
     string cursorRight(int k) {
-        int n=s.size();
-        if(idx>n-k)
+        int n=right.size();
+        int cnt=min(k,n);
+        while(cnt--)
         {
-            idx=n;
+            left.push_back(right.back());
+            right.pop_back();
         }
-        else
-        {
-            idx+=k;
-        }
-        int temp=min(10,idx);
-        return s.substr(idx-temp,temp);
+        n=left.size();
+        int pos=max(0,n-10);
+        return left.substr(pos);
     }
 };
 
