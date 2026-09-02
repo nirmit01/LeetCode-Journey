@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nirmit01/LeetCode-Journey/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/nirmit01/LeetCode-Journey/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/nirmit01/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/nirmit01/LeetCode-Journey/tree/master/0443-string-compression) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirmit01/LeetCode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0368-largest-divisible-subset](https://github.com/nirmit01/LeetCode-Journey/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/nirmit01/LeetCode-Journey/tree/master/0412-fizz-buzz) |
 | [0464-can-i-win](https://github.com/nirmit01/LeetCode-Journey/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/nirmit01/LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0598-range-addition-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0598-range-addition-ii) |
@@ -990,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/nirmit01/LeetCode-Journey/tree/master/0068-text-justification) |
+| [0412-fizz-buzz](https://github.com/nirmit01/LeetCode-Journey/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/nirmit01/LeetCode-Journey/tree/master/0495-teemo-attacking) |
 | [0999-available-captures-for-rook](https://github.com/nirmit01/LeetCode-Journey/tree/master/0999-available-captures-for-rook) |
 | [1260-shift-2d-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
