@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3101-count-alternating-subarrays](https://github.com/nirmit01/LeetCode-Journey/tree/master/3101-count-alternating-subarrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nirmit01/LeetCode-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3238-find-the-number-of-winning-players](https://github.com/nirmit01/LeetCode-Journey/tree/master/3238-find-the-number-of-winning-players) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2321-maximum-score-of-spliced-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/2321-maximum-score-of-spliced-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nirmit01/LeetCode-Journey/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/nirmit01/LeetCode-Journey/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/nirmit01/LeetCode-Journey/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/nirmit01/LeetCode-Journey/tree/master/3660-jump-game-ix) |
@@ -1054,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1901-find-a-peak-element-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1901-find-a-peak-element-ii) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmit01/LeetCode-Journey/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Geometry
 |  |
