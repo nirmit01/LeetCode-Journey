@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/nirmit01/LeetCode-Journey/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/nirmit01/LeetCode-Journey/tree/master/0752-open-the-lock) |
 | [0917-reverse-only-letters](https://github.com/nirmit01/LeetCode-Journey/tree/master/0917-reverse-only-letters) |
+| [0940-distinct-subsequences-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nirmit01/LeetCode-Journey/tree/master/0944-delete-columns-to-make-sorted) |
 | [0990-satisfiability-of-equality-equations](https://github.com/nirmit01/LeetCode-Journey/tree/master/0990-satisfiability-of-equality-equations) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0931-minimum-falling-path-sum) |
 | [0935-knight-dialer](https://github.com/nirmit01/LeetCode-Journey/tree/master/0935-knight-dialer) |
+| [0940-distinct-subsequences-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/1025-divisor-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/nirmit01/LeetCode-Journey/tree/master/1048-longest-string-chain) |
