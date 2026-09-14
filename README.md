@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0598-range-addition-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/nirmit01/LeetCode-Journey/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/nirmit01/LeetCode-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/1025-divisor-game) |
@@ -1079,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/nirmit01/LeetCode-Journey/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/nirmit01/LeetCode-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nirmit01/LeetCode-Journey/tree/master/2101-detonate-the-maximum-bombs) |
 ## Counting Sort
