@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2161-partition-array-according-to-given-pivot](https://github.com/nirmit01/LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nirmit01/LeetCode-Journey/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nirmit01/LeetCode-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2270-number-of-ways-to-split-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/2270-number-of-ways-to-split-array) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmit01/LeetCode-Journey/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nirmit01/LeetCode-Journey/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1872-stone-game-viii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1872-stone-game-viii) |
 | [2050-parallel-courses-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/2050-parallel-courses-iii) |
 | [2266-count-number-of-texts](https://github.com/nirmit01/LeetCode-Journey/tree/master/2266-count-number-of-texts) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nirmit01/LeetCode-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2321-maximum-score-of-spliced-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/2321-maximum-score-of-spliced-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nirmit01/LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nirmit01/LeetCode-Journey/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -1096,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1591-strange-printer-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1591-strange-printer-ii) |
 | [1631-path-with-minimum-effort](https://github.com/nirmit01/LeetCode-Journey/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1901-find-a-peak-element-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nirmit01/LeetCode-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nirmit01/LeetCode-Journey/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/3148-maximum-difference-score-in-a-grid) |
@@ -1254,4 +1257,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/nirmit01/LeetCode-Journey/tree/master/0051-n-queens) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nirmit01/LeetCode-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
