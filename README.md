@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/nirmit01/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/nirmit01/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nirmit01/LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0032-longest-valid-parentheses](https://github.com/nirmit01/LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/nirmit01/LeetCode-Journey/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/nirmit01/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/nirmit01/LeetCode-Journey/tree/master/0068-text-justification) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nirmit01/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/nirmit01/LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/nirmit01/LeetCode-Journey/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/nirmit01/LeetCode-Journey/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0097-interleaving-string) |
@@ -973,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/nirmit01/LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/nirmit01/LeetCode-Journey/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirmit01/LeetCode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/nirmit01/LeetCode-Journey/tree/master/0316-remove-duplicate-letters) |
@@ -1262,5 +1265,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/nirmit01/LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nirmit01/LeetCode-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
