@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2592-maximize-greatness-of-an-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/2592-maximize-greatness-of-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nirmit01/LeetCode-Journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nirmit01/LeetCode-Journey/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nirmit01/LeetCode-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nirmit01/LeetCode-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nirmit01/LeetCode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -973,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1291-sequential-digits](https://github.com/nirmit01/LeetCode-Journey/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nirmit01/LeetCode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nirmit01/LeetCode-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/nirmit01/LeetCode-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/3499-maximize-active-section-with-trade-i) |
