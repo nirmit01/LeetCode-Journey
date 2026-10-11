@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0057-insert-interval](https://github.com/nirmit01/LeetCode-Journey/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/nirmit01/LeetCode-Journey/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/nirmit01/LeetCode-Journey/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/nirmit01/LeetCode-Journey/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nirmit01/LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nirmit01/LeetCode-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0071-simplify-path](https://github.com/nirmit01/LeetCode-Journey/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/nirmit01/LeetCode-Journey/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/nirmit01/LeetCode-Journey/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/nirmit01/LeetCode-Journey/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/nirmit01/LeetCode-Journey/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/nirmit01/LeetCode-Journey/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0097-interleaving-string) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nirmit01/LeetCode-Journey/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nirmit01/LeetCode-Journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nirmit01/LeetCode-Journey/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/nirmit01/LeetCode-Journey/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/nirmit01/LeetCode-Journey/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/nirmit01/LeetCode-Journey/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/nirmit01/LeetCode-Journey/tree/master/0131-palindrome-partitioning) |
@@ -1098,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nirmit01/LeetCode-Journey/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/nirmit01/LeetCode-Journey/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nirmit01/LeetCode-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/nirmit01/LeetCode-Journey/tree/master/0463-island-perimeter) |
 | [0773-sliding-puzzle](https://github.com/nirmit01/LeetCode-Journey/tree/master/0773-sliding-puzzle) |
