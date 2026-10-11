@@ -14,12 +14,31 @@ public:
         board[i][j]='#';
 
         bool check= dfs(i+1,j,k,board,word,n,m) || dfs(i,j+1,k,board,word,n,m) || dfs(i-1,j,k,board,word,n,m) || dfs(i,j-1,k,board,word,n,m);
-        
+
         board[i][j]=temp;
         return check;
     }
     bool exist(vector<vector<char>>& board, string word) {
         int n=board.size(),m=board[0].size();
+        if(n*m<word.size())
+            return false;
+        int c1=0,c2=0;
+        int k=word.size();
+        for(auto &i:board)
+        {
+            for(char c:i)
+            {
+                if(c==word[0])
+                    c1++;
+                if(c==word[k-1])
+                    c2++;
+            }
+        }
+        if(c1==0 || c2==0)
+            return false;
+        if(c1>c2)
+            reverse(word.begin(),word.end());
+
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<m;j++)
