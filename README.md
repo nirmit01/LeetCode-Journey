@@ -560,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/nirmit01/LeetCode-Journey/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nirmit01/LeetCode-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nirmit01/LeetCode-Journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/nirmit01/LeetCode-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/nirmit01/LeetCode-Journey/tree/master/0207-course-schedule) |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nirmit01/LeetCode-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nirmit01/LeetCode-Journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/nirmit01/LeetCode-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0437-path-sum-iii) |
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nirmit01/LeetCode-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nirmit01/LeetCode-Journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/nirmit01/LeetCode-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0437-path-sum-iii) |
@@ -897,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/nirmit01/LeetCode-Journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/nirmit01/LeetCode-Journey/tree/master/0025-reverse-nodes-in-k-group) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nirmit01/LeetCode-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nirmit01/LeetCode-Journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/nirmit01/LeetCode-Journey/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nirmit01/LeetCode-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -990,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/nirmit01/LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/nirmit01/LeetCode-Journey/tree/master/0071-simplify-path) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nirmit01/LeetCode-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirmit01/LeetCode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/nirmit01/LeetCode-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0394-decode-string) |
