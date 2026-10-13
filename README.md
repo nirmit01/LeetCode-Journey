@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/nirmit01/LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0697-degree-of-an-array) |
 | [0721-accounts-merge](https://github.com/nirmit01/LeetCode-Journey/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/nirmit01/LeetCode-Journey/tree/master/0724-find-pivot-index) |
@@ -1003,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/nirmit01/LeetCode-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/nirmit01/LeetCode-Journey/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/nirmit01/LeetCode-Journey/tree/master/0853-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nirmit01/LeetCode-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1073,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0068-text-justification](https://github.com/nirmit01/LeetCode-Journey/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/nirmit01/LeetCode-Journey/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/nirmit01/LeetCode-Journey/tree/master/0495-teemo-attacking) |
+| [0682-baseball-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/0682-baseball-game) |
 | [0999-available-captures-for-rook](https://github.com/nirmit01/LeetCode-Journey/tree/master/0999-available-captures-for-rook) |
 | [1260-shift-2d-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nirmit01/LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
