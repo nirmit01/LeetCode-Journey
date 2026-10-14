@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/nirmit01/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/nirmit01/LeetCode-Journey/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/nirmit01/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/nirmit01/LeetCode-Journey/tree/master/0041-first-missing-positive) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nirmit01/LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/nirmit01/LeetCode-Journey/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/nirmit01/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/nirmit01/LeetCode-Journey/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/nirmit01/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/nirmit01/LeetCode-Journey/tree/master/0076-minimum-window-substring) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nirmit01/LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/nirmit01/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nirmit01/LeetCode-Journey/tree/master/0046-permutations) |
@@ -1114,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nirmit01/LeetCode-Journey/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/nirmit01/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/nirmit01/LeetCode-Journey/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nirmit01/LeetCode-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/nirmit01/LeetCode-Journey/tree/master/0463-island-perimeter) |
@@ -1288,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nirmit01/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/nirmit01/LeetCode-Journey/tree/master/0051-n-queens) |
 ## Bracket Sequences
 |  |
@@ -1295,4 +1300,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/nirmit01/LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nirmit01/LeetCode-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nirmit01/LeetCode-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/nirmit01/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
