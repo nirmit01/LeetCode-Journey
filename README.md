@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2062-count-vowel-substrings-of-a-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2266-count-number-of-texts](https://github.com/nirmit01/LeetCode-Journey/tree/master/2266-count-number-of-texts) |
 | [2296-design-a-text-editor](https://github.com/nirmit01/LeetCode-Journey/tree/master/2296-design-a-text-editor) |
+| [2409-count-days-spent-together](https://github.com/nirmit01/LeetCode-Journey/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nirmit01/LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2716-minimize-string-length](https://github.com/nirmit01/LeetCode-Journey/tree/master/2716-minimize-string-length) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2029-stone-game-ix](https://github.com/nirmit01/LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2101-detonate-the-maximum-bombs](https://github.com/nirmit01/LeetCode-Journey/tree/master/2101-detonate-the-maximum-bombs) |
 | [2266-count-number-of-texts](https://github.com/nirmit01/LeetCode-Journey/tree/master/2266-count-number-of-texts) |
+| [2409-count-days-spent-together](https://github.com/nirmit01/LeetCode-Journey/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/nirmit01/LeetCode-Journey/tree/master/2413-smallest-even-multiple) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/nirmit01/LeetCode-Journey/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/nirmit01/LeetCode-Journey/tree/master/2549-count-distinct-numbers-on-board) |
