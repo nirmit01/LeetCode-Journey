@@ -1,8 +1,8 @@
 class Solution {
 public:
     int countServers(vector<vector<int>>& grid) {
-        unordered_map<int,int> mpp1,mpp2;
         int n=grid.size(),m=grid[0].size();
+        vector<int> mpp1(n),mpp2(m);
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<m;j++)
