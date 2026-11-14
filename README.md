@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/nirmit01/LeetCode-Journey/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/nirmit01/LeetCode-Journey/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/nirmit01/LeetCode-Journey/tree/master/0815-bus-routes) |
+| [0869-reordered-power-of-2](https://github.com/nirmit01/LeetCode-Journey/tree/master/0869-reordered-power-of-2) |
 | [0904-fruit-into-baskets](https://github.com/nirmit01/LeetCode-Journey/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nirmit01/LeetCode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/nirmit01/LeetCode-Journey/tree/master/0997-find-the-town-judge) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/nirmit01/LeetCode-Journey/tree/master/0836-rectangle-overlap) |
+| [0869-reordered-power-of-2](https://github.com/nirmit01/LeetCode-Journey/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/nirmit01/LeetCode-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/nirmit01/LeetCode-Journey/tree/master/1025-divisor-game) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nirmit01/LeetCode-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/nirmit01/LeetCode-Journey/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/nirmit01/LeetCode-Journey/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0869-reordered-power-of-2](https://github.com/nirmit01/LeetCode-Journey/tree/master/0869-reordered-power-of-2) |
 | [0922-sort-array-by-parity-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/nirmit01/LeetCode-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -1015,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0869-reordered-power-of-2](https://github.com/nirmit01/LeetCode-Journey/tree/master/0869-reordered-power-of-2) |
 | [1291-sequential-digits](https://github.com/nirmit01/LeetCode-Journey/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nirmit01/LeetCode-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nirmit01/LeetCode-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -1073,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/nirmit01/LeetCode-Journey/tree/master/0621-task-scheduler) |
+| [0869-reordered-power-of-2](https://github.com/nirmit01/LeetCode-Journey/tree/master/0869-reordered-power-of-2) |
 | [1189-maximum-number-of-balloons](https://github.com/nirmit01/LeetCode-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1267-count-servers-that-communicate](https://github.com/nirmit01/LeetCode-Journey/tree/master/1267-count-servers-that-communicate) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/nirmit01/LeetCode-Journey/tree/master/1857-largest-color-value-in-a-directed-graph) |
