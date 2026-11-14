@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/nirmit01/LeetCode-Journey/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/nirmit01/LeetCode-Journey/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/nirmit01/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/nirmit01/LeetCode-Journey/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/nirmit01/LeetCode-Journey/tree/master/0057-insert-interval) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nirmit01/LeetCode-Journey/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/nirmit01/LeetCode-Journey/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/nirmit01/LeetCode-Journey/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/nirmit01/LeetCode-Journey/tree/master/0093-restore-ip-addresses) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/nirmit01/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/nirmit01/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0220-contains-duplicate-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/0220-contains-duplicate-iii) |
