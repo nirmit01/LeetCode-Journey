@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nirmit01/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nirmit01/LeetCode-Journey/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2266-count-number-of-texts](https://github.com/nirmit01/LeetCode-Journey/tree/master/2266-count-number-of-texts) |
 | [2296-design-a-text-editor](https://github.com/nirmit01/LeetCode-Journey/tree/master/2296-design-a-text-editor) |
 | [2409-count-days-spent-together](https://github.com/nirmit01/LeetCode-Journey/tree/master/2409-count-days-spent-together) |
@@ -1116,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0999-available-captures-for-rook](https://github.com/nirmit01/LeetCode-Journey/tree/master/0999-available-captures-for-rook) |
 | [1260-shift-2d-grid](https://github.com/nirmit01/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nirmit01/LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/nirmit01/LeetCode-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2296-design-a-text-editor](https://github.com/nirmit01/LeetCode-Journey/tree/master/2296-design-a-text-editor) |
 | [2402-meeting-rooms-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/2402-meeting-rooms-iii) |
 | [2549-count-distinct-numbers-on-board](https://github.com/nirmit01/LeetCode-Journey/tree/master/2549-count-distinct-numbers-on-board) |
