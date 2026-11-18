@@ -1,23 +1,12 @@
 class Solution {
 public:
     int minFlipsMonoIncr(string s) {
-        int cnt0=0;
-        int n=s.size();
-        for(int i=0;i<n;i++)
+        int cnt=0, prev=0;
+        for(char c:s)
         {
-            if(s[i]=='0')
-                cnt0++;
+            if(c=='0')  cnt=min(cnt+1,prev);
+            else prev++;
         }
-        int c0=0,c1=0;
-        int ans=INT_MAX;
-        for(int i=0;i<n;i++)
-        {
-            int req=c1+(cnt0-c0);
-            if(s[i]=='0')   req--;
-            ans=min(ans,req);
-            if(s[i]=='1')   c1++;
-            else c0++;
-        }
-        return ans;
+        return cnt;
     }
 };
