@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/nirmit01/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/nirmit01/LeetCode-Journey/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/nirmit01/LeetCode-Journey/tree/master/1345-jump-game-iv) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/nirmit01/LeetCode-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/nirmit01/LeetCode-Journey/tree/master/1383-maximum-performance-of-a-team) |
 | [1406-stone-game-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1406-stone-game-iii) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1323-maximum-69-number](https://github.com/nirmit01/LeetCode-Journey/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nirmit01/LeetCode-Journey/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/nirmit01/LeetCode-Journey/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/nirmit01/LeetCode-Journey/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1406-stone-game-iii) |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0974-subarray-sums-divisible-by-k](https://github.com/nirmit01/LeetCode-Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/nirmit01/LeetCode-Journey/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1140-stone-game-ii](https://github.com/nirmit01/LeetCode-Journey/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nirmit01/LeetCode-Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nirmit01/LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/nirmit01/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
@@ -1021,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/nirmit01/LeetCode-Journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0284-peeking-iterator](https://github.com/nirmit01/LeetCode-Journey/tree/master/0284-peeking-iterator) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/nirmit01/LeetCode-Journey/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2296-design-a-text-editor](https://github.com/nirmit01/LeetCode-Journey/tree/master/2296-design-a-text-editor) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/nirmit01/LeetCode-Journey/tree/master/2642-design-graph-with-shortest-path-calculator) |
@@ -1352,4 +1356,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nirmit01/LeetCode-Journey/tree/master/0037-sudoku-solver) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/nirmit01/LeetCode-Journey/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
